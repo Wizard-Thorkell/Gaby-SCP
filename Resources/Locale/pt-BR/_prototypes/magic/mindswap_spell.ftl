@@ -1,2 +1,2 @@
-ent-ActionMindSwap = Troca de Mente
-    .desc = Troque corpos com outra pessoa!
+ent-ActionMindSwap = Transferência mental
+    .desc = Troque de corpo com outra pessoa!

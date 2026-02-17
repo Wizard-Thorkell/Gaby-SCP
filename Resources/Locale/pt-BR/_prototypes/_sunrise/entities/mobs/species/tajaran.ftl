@@ -1,4 +1,4 @@
-ent-BaseMobTajaran = { ent-BaseMobSpeciesOrganic }
+ent-BaseMobTajaran = Urist McTayaran
     .desc = { ent-BaseMobSpeciesOrganic.desc }
-ent-MobTajaranDummy = Tajaran McHands
-    .desc = Um tajaran fictício destinado a ser usado na configuração do personagem.
+ent-MobTajaranDummy = { ent-BaseSpeciesDummy }
+    .desc = { ent-BaseSpeciesDummy.desc }

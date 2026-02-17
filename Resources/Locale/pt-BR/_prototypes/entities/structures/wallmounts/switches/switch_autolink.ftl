@@ -1,13 +1,13 @@
 ent-SignalButtonExt1 = botão externo 1
-    .suffix = Link automático, Ext1
+    .suffix = Link automático, externo1
     .desc = { ent-SignalButton.desc }
 ent-SignalButtonExt2 = botão externo 2
-    .suffix = Link automático, Ext2
+    .suffix = Link automático, externo2
     .desc = { ent-SignalButton.desc }
 ent-SignalButtonExt3 = botão externo 3
-    .suffix = Link automático, Ext3
+    .suffix = Link automático, externo3
     .desc = { ent-SignalButton.desc }
-ent-SignalButtonBridge = botão de janelas de ponte
+ent-SignalButtonBridge = botão da janela da ponte
     .suffix = Link automático, ponte
     .desc = { ent-SignalButton.desc }
 ent-SignalButtonWindows = botão de janelas externas

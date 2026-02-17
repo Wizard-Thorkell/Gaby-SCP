@@ -1,6 +1,6 @@
-ent-RandomHumanoidSpawnerNtrLeader = Líder NTR
-    .suffix = Função NTR, Líder
+ent-RandomHumanoidSpawnerNtrLeader = Comandante ISN
+    .suffix = ISN, Comandante
     .desc = { "" }
-ent-RandomHumanoidSpawnerNtrGuard = Operador NTR
-    .suffix = Função NTR, Operador
+ent-RandomHumanoidSpawnerNtrGuard = Operativo ISN
+    .suffix = ISN, Operativo
     .desc = { ent-RandomHumanoidSpawnerNtrLeader.desc }

@@ -1,14 +1,10 @@
-marking-HumanNoseSchnozz = Schnozz
+marking-HumanNoseSchnozz = Shnobel
 marking-HumanNoseSchnozz-schnozz = Nariz
-
-marking-HumanNoseNubby = Nariz protuberante
+marking-HumanNoseNubby = Nariz com tubérculos
 marking-HumanNoseNubby-nubby = Nariz
-
-marking-HumanNoseDroop = Nariz caído
+marking-HumanNoseDroop = Nariz corcunda
 marking-HumanNoseDroop-droop = Nariz
-
-marking-HumanNoseBlob = Nariz inchado
+marking-HumanNoseBlob = Nariz pineal
 marking-HumanNoseBlob-blob = Nariz
-
-marking-HumanNoseUppie = Nariz arrebitado
+marking-HumanNoseUppie = Nariz alto
 marking-HumanNoseUppie-uppie = Nariz

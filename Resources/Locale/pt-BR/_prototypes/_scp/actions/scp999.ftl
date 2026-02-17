@@ -1,7 +1,6 @@
-ent-Scp999Wallify = Transformar-se em uma parede
-    .desc = Você altera sua forma, tornando-se algo semelhante a uma parede.
-ent-Scp999Rest = Deitar e descansar
-    .desc = Você está dormindo.
+ent-Scp999Wallify = Transforme-se em uma parede
+    .desc = Você muda sua forma, transformando-se em algo semelhante a uma parede.
+ent-Scp999Rest = Deite-se para descansar
+    .desc = Você adormece.
 ent-Scp999Affection = Abraços
-    .desc = Envolva o alvo em um abraço, restaurando uma pequena quantidade de saúde.
-
+    .desc = Puxe o alvo para um abraço, restaurando uma pequena quantidade de saúde.

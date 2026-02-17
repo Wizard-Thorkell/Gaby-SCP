@@ -1,39 +1,39 @@
-mob-name-disease = Doença Inteligente
+mob-name-disease = Doença inteligente
 mob-description-disease = praga inc 2.0
 ghostrole-disease-name = doença inteligente
-ghostrole-disease-description = Uma doença comum que de repente decidiu se tornar inteligente. Quem não esteve lá?
-disease-round-end-result = [color=green]Houve uma doença inteligente na estação. Tinha:[/color]
+ghostrole-disease-description = Uma doença comum que de repente decidiu se tornar inteligente. Com quem isso não acontece?
+disease-round-end-result = [color=green]Havia uma doença senciente na estação. Ela era:[/color]
 disease-round-end-result-infected = Infectado: [color=gold]{ $count }[/color]
 disease-round-end-result-infects = Infectado no final da rodada: [color=gold]{ $count }[/color]
 disease-round-end-result-immuned = [color=gold]{ $count }[/color] pessoas tinham imunidade.
-disease-agent-name = Doença Inteligente
-disease-biohazard-announcement = Ameaça biológica de nível 7 confirmada a bordo da estação. Todo o pessoal deve tomar precauções para evitar a propagação da contaminação.
+disease-agent-name = doença inteligente
+disease-biohazard-announcement = Uma ameaça biológica de nível 7 foi confirmada a bordo da estação. Todo o pessoal deve tomar precauções para evitar a propagação da infecção.
 disease-biohazard-announcement-sender = Comando Central
-disease-not-enough-evolution-points = Pontos de evolução insuficientes
+disease-not-enough-evolution-points = Você não tem pontos de evolução suficientes
 disease-symptom-headache = Você sente uma leve dor de cabeça.
 
-disease-zombie-success = Converteu { count } infectados em zumbis com sucesso!
+disease-zombie-success = Converteu { $count } infectados em zumbis com sucesso!
 
 action-disease-infect-name = Infectar
-action-disease-infect-description = Tenta infectar um alvo. Usa cobranças.
+action-disease-infect-description = Tentativa de infectar um alvo. Usa cobranças.
 
-action-disease-shop-name = Loja de doenças
-action-disease-shop-description = Abra o menu de mutação da doença.
+action-disease-shop-name = Mutação
+action-disease-shop-description = Abra o menu de mutação.
 
 disease-info-header = ESTATÍSTICAS DE DOENÇAS
-disease-info-core-statistics = Estatísticas principais
+disease-info-core-statistics = Estatísticas Básicas
 disease-info-base-chance = Chance básica de infecção
-disease-info-cough-sneeze-chance = Chance de tosse/espirro
-disease-info-lethal = Nível de letalidade
-disease-info-shield = Nível do Escudo
+disease-info-cough-sneeze-chance = Chance de infecção ao tossir/espirrar
+disease-info-lethal = Taxa de letalidade
+disease-info-shield = Nível de proteção
 disease-info-infection-statistics = Estatísticas de infecção
 disease-info-infected-count = Atualmente infectado
 disease-info-total-infected = Total de infectados (todos os tempos)
 
-disease-infect-charge-purchased = Carga de infecção comprada com sucesso!
-disease-infect-charge-max-reached = Já com cobrança máxima ({ $maxCharges })! Compra reembolsada.
+disease-infect-charge-purchased = A carga de infecção foi comprada com sucesso!
+disease-infect-charge-max-reached = Já é o número máximo de cobranças ({ $maxCharges })! A compra foi devolvida.
 
-disease-death-reward = Recebeu { $points } Pontos de Doença pela morte de outra doença!
+disease-death-reward = Ganhou { $points } pontos de doença com a morte de outro paciente!
 
-disease-upgrade-purchased = Atualização adquirida com sucesso!
-disease-upgrade-max-reached = Nível máximo de atualização alcançado!
+disease-upgrade-purchased = A atualização foi comprada com sucesso!
+disease-upgrade-max-reached = Atingiu o nível máximo de atualização!

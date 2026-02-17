@@ -1,2 +1,2 @@
-ent-Silencer = silenciador
-    .desc = Ferramenta para silenciar humanos.
+ent-Silencer = silencioso
+    .desc = Uma ferramenta para silenciar as pessoas.

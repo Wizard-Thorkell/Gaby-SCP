@@ -1,6 +1,6 @@
 ent-PinionAirlock = { ent-Airlock }
-    .suffix = Pinhão, Mecânico
+    .suffix = Engrenagem, Mecânica
     .desc = { ent-Airlock.desc }
 ent-PinionAirlockGlass = { ent-AirlockGlass }
-    .suffix = Pinhão, Mecânico
+    .suffix = Engrenagem, Mecânica
     .desc = { ent-AirlockGlass.desc }

@@ -1,8 +1,9 @@
-﻿### Loc for the transfer amount eui window
+### Loc for the transfer amount eui window
+
 
 ## Title
 
-ui-transfer-amount-title = Alterar valor da transferência
+ui-transfer-amount-title = Alterar quantidade transferida
 
 ## Text for the button to apply changes
 
@@ -10,4 +11,4 @@ ui-transfer-amount-apply = Definir valor
 
 ## Placeholder text for the amount line edit
 
-ui-transfer-amount-line-edit-placeholder = Quantia
+ui-transfer-amount-line-edit-placeholder = Significado

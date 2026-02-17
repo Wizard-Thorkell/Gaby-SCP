@@ -1,2 +1,2 @@
 syndicate = Sindicato
-EvilTwinCorp = Corporação do Logotipo Devocional
+EvilTwinCorp = Corporação Gêmea do Mal

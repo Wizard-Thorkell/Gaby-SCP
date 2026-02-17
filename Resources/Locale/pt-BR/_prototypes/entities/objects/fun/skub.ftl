@@ -1,2 +1,2 @@
-ent-Skub = esquilo
-    .desc = Skub é o quinto Deus do Caos.
+ent-Skub = crosta
+    .desc = Scub é o quinto Deus do Caos.

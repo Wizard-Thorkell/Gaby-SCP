@@ -1,10 +1,8 @@
-guidebook-window-title = Guia
+guidebook-window-title = Gerenciamento
 guidebook-placeholder-text = Selecione uma entrada.
-guidebook-placeholder-text-2 = Se você é novo, vá para "Novo? Comece aqui!"
-guidebook-filter-placeholder-text = Filtrar itens
-
-guidebook-parser-error = Erro de analisador
-guidebook-error-message = Mensagem de erro
-
-guidebook-monkey-unspin = Soltar Macaco
-guidebook-monkey-disco = Macaco Discoteca
+guidebook-placeholder-text-2 = Se você é iniciante, comece com a entrada "Novato? Este é o lugar para você!"
+guidebook-filter-placeholder-text = Filtro
+guidebook-parser-error = Erro do analisador
+guidebook-error-message = Erro
+guidebook-monkey-unspin = Vire o macaco
+guidebook-monkey-disco = Macaco discoteca

@@ -1,2 +1,2 @@
 ent-ClothingMultipleHeadphones = fones de ouvido
-    .desc = Fones de ouvido de qualidade da Drunk Masters, com bom isolamento acústico.
+    .desc = Fones de ouvido de alta qualidade da Drunk Masters, com bom isolamento acústico.

@@ -1,8 +1,8 @@
-ent-BaseFirelock = bloqueio de fogo
-    .desc = Aplique pé de cabra.
+ent-BaseFirelock = eclusa de fogo
+    .desc = Use a alavanca.
 ent-Firelock = { ent-BaseFirelock }
     .desc = { ent-BaseFirelock.desc }
-ent-FirelockGlass = firelock de vidro
+ent-FirelockGlass = eclusa de fogo de vidro
     .desc = { ent-Firelock.desc }
-ent-FirelockEdge = bloqueio de fogo
+ent-FirelockEdge = eclusa de fogo
     .desc = { ent-Firelock.desc }

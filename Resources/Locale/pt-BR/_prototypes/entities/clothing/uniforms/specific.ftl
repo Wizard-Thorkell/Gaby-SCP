@@ -1,3 +1,3 @@
 ent-ClothingUniformJumpsuitChameleon = macacão preto
-    .desc = Um macacão preto genérico sem marcas de classificação.
+    .desc = Macacão preto normal sem insígnia.
     .suffix = Camaleão

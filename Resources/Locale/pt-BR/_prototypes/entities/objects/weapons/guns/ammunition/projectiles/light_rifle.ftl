@@ -1,6 +1,6 @@
 ent-BulletLightRifle = bala (rifle .20)
     .desc = { ent-BaseBullet.desc }
-ent-BulletLightRiflePractice = bala (prática de rifle .20)
+ent-BulletLightRiflePractice = bala (treinamento de rifle .20)
     .desc = { ent-BaseBulletPractice.desc }
 ent-BulletLightRifleIncendiary = bala (rifle .20 incendiário)
     .desc = { ent-BaseBulletIncendiary.desc }

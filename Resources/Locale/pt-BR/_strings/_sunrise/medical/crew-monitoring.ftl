@@ -1,7 +1,8 @@
-crew-monitoring-corpse-alert = Sinal de alerta:
+crew-monitoring-corpse-alert = Alerta:
 crew-monitoring-corpse-alert-on = SOBRE
 crew-monitoring-corpse-alert-off = DESLIGADO
-crew-monitoring-ui-no-sensors-label = Servidor encontrado, sem sensores correspondentes
+crew-monitoring-ui-no-server-label = Servidor não encontrado
+crew-monitoring-ui-no-sensors-label = Servidor encontrado, sem sensores adequados
 
-item-toggle-deactivate-alert = Desativar alerta
-item-toggle-activate-alert = Ativar alerta
+item-toggle-deactivate-alert = Desativar alarme
+item-toggle-activate-alert = Ativar alarme

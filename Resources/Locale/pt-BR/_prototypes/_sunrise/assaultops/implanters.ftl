@@ -1,2 +1,2 @@
-ent-IcarusKeyImplanter = implantador de chave icarus
+ent-IcarusKeyImplanter = implantador de chave "Ikarus"
     .desc = { ent-BaseImplantOnlyImplanter.desc }

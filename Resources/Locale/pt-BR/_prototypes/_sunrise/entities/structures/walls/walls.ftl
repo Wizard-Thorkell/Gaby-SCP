@@ -1,8 +1,8 @@
-ent-WallAbductorDiagonal = parede de transporte
-    .desc = Mantém o ar dentro e a maré cinzenta fora.
-    .suffix = Diagonal
-ent-WallAbductor = parede de transporte
-    .suffix = Reforçado, Exterior
+ent-WallAbductorDiagonal = parede do ônibus abdutor
+    .desc = { ent-BaseWall.desc }
+    .suffix = diagonal
+ent-WallAbductor = parede do ônibus abdutor
+    .suffix = Fortificado, Externo
     .desc = { ent-BaseWall.desc }
 ent-WallCultIndestructible = { ent-WallCult }
-    .desc = { ent-WallCult.desc }
+    .desc = Mantém o ar dentro e os cultistas fora. Ela parece estar especialmente encantada com a magia do sangue.

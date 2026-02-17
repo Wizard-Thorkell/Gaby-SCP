@@ -1,2 +1,2 @@
-ent-RandomBoard = gerador de tabuleiro aleatório
+ent-RandomBoard = placa de máquina geradora aleatória
     .desc = { ent-MarkerBase.desc }

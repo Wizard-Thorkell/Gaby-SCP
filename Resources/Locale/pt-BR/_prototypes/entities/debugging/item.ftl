@@ -1,3 +1,3 @@
-ent-DebugItemShapeWeird = item de formato estranho
-    .desc = O que é...?
+ent-DebugItemShapeWeird = objeto estranhamente projetado
+    .desc = O que é isso...?
     .suffix = DEPURAR

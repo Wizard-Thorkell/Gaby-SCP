@@ -1,4 +1,4 @@
-cmd-callshuttle-desc = Chama o ônibus de emergência com um horário de chegada fornecido opcionalmente.
-cmd-callshuttle-help = Uso: callhuttle [m:ss]
-cmd-recallshuttle-desc = Chama o ônibus de emergência.
-cmd-recallshuttle-help = Uso: recallshuttle
+call-shuttle-command-description = Chama um trabalhador do transporte de evacuação indicando o horário de chegada de sua escolha.
+call-shuttle-command-help-text = Uso: { $command } [m:ss]
+recall-shuttle-command-description = O transportador de evacuação está sendo recolhido.
+recall-shuttle-command-help-text = Uso: { $command }

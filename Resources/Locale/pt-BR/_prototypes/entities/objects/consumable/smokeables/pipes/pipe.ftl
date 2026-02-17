@@ -1,11 +1,11 @@
 ent-SmokingPipe = cano
-    .desc = Assim como o vovô costumava fumar.
+    .desc = Assim como o vovô fumava.
 ent-SmokingPipeFilledTobacco = cano
-    .desc = Assim como o vovô costumava fumar.
+    .desc = { ent-SmokingPipe.desc }
     .suffix = Tabaco
 ent-SmokingPipeFilledCannabis = cano
-    .desc = Assim como o vovô costumava fumar.
-    .suffix = Cannabis
+    .desc = { ent-SmokingPipe.desc }
+    .suffix = Cânhamo
 ent-SmokingPipeFilledCannabisRainbow = cano
-    .desc = Assim como o vovô costumava fumar.
-    .suffix = Cannabis arco-íris
+    .desc = Assim como o vovô fumava.
+    .suffix = Cânhamo arco-íris

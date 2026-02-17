@@ -1,2 +1,2 @@
-ent-DiskCase = maleta
-    .desc = Caso para armazenar um disco de coordenadas.
+ent-DiskCase = caixa de disco
+    .desc = Caso para armazenar o disco de coordenadas.

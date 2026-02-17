@@ -1,5 +1,5 @@
-ent-MiningWindow = janela de mineração
-    .desc = { ent-WindowRCDResistant.desc }
+ent-MiningWindow = janela do mineiro
+    .desc = { ent-Window.desc }
 ent-MiningWindowDiagonal = { ent-ShuttleWindow }
-    .suffix = diagonal
+    .suffix = Diagonal
     .desc = { ent-ShuttleWindow.desc }

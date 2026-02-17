@@ -1,5 +1,5 @@
 ent-ChangelingKillRandomPersonObjective = { ent-BaseChangelingObjective }
-    .desc = Faça como quiser, apenas certifique-se de que eles não cheguem ao centcomm.
+    .desc = Faça como quiser, desde que não cheguem ao Centcom.
 ent-ChangelingKillRandomAntagObjective = { ent-BaseChangelingObjective }
     .desc = { ent-BaseChangelingObjective.desc }
 ent-ChangelingAbsorbObjective = { ent-BaseChangelingObjective }

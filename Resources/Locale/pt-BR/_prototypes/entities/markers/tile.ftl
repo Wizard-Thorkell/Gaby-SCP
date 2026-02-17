@@ -1,5 +1,5 @@
 ent-RoofMarker = Teto
-    .suffix = Habilitado
+    .suffix = Incluído
     .desc = { ent-BaseRoofMarker.desc }
 ent-NoRoofMarker = Teto
     .suffix = Desabilitado

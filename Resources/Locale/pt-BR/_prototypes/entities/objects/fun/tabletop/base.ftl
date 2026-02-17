@@ -1,6 +1,6 @@
 ent-BaseBoardEntity = quadro
-    .desc = Um quadro em branco.
+    .desc = Tabuleiro vazio.
 ent-BaseTabletopPiece = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-BaseBoardTabletop = rodapé
+ent-BaseBoardTabletop = placa base
     .desc = { "" }

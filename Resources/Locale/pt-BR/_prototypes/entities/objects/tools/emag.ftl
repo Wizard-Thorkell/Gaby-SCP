@@ -1,6 +1,6 @@
 ent-EmagUnlimited = sequenciador criptográfico
-    .desc = A solução de hacking completa. Amigo de qualquer sindicato. O icônico EMAG.
+    .desc = Uma solução universal de hackers. Uma chave mestra para o homem pensante. O icônico EMAG.
     .suffix = Ilimitado
 ent-Emag = { ent-EmagUnlimited }
-    .suffix = Limitado
     .desc = { ent-EmagUnlimited.desc }
+    .suffix = Limitado

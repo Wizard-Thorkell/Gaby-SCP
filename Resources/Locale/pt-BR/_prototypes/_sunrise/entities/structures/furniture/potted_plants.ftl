@@ -20,3 +20,4 @@ ent-PottedPlantAlt9 = { ent-PottedPlantBase }
     .desc = { ent-PottedPlantBase.desc }
 ent-PottedPlantAlt10 = árvore de natal de plástico
     .desc = Um ótimo complemento para o ano novo no local de trabalho!
+    .suffix = Ano Novo

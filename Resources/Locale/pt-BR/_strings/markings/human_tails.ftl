@@ -1,7 +1,4 @@
-marking-FoxTail = Rabo de Raposa
-
-marking-BigFoxTail = Grande cauda de raposa
-
-marking-SharkTail = Cauda de Tubarão
-
-marking-LizardTail = Cauda de Lagarto
+marking-FoxTail = cauda de raposa
+marking-BigFoxTail = grande cauda de raposa
+marking-SharkTail = cauda de tubarão
+marking-LizardTail = cauda de lagarto

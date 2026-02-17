@@ -1,6 +1,6 @@
 ent-SpiderWebBase = { "" }
     .desc = { "" }
-ent-SpiderWeb = teia de aranha
-    .desc = É pegajoso e pegajoso.
-ent-SpiderWebClown = teia de aranha palhaço
-    .desc = É pegajoso e escorregadio.
+ent-SpiderWeb = rede
+    .desc = É viscoso e pegajoso.
+ent-SpiderWebClown = teia de palhaço
+    .desc = É viscoso e escorregadio.

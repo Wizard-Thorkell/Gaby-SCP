@@ -1,1 +1,1 @@
-scp-457-extinguished = Está sendo extinto!
+scp-457-extinguished = Está fervendo!

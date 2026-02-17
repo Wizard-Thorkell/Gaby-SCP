@@ -1,59 +1,61 @@
-
-gun-selected-mode-examine = O modo de disparo selecionado atualmente é [color={$color}]{$mode}[/color].
-gun-fire-rate-examine = A taxa de tiro é [color={$color}]{$fireRate}[/color] por segundo.
-gun-selector-verb = Alterar para {$mode}
-gun-selected-mode = Selecionado {$mode}
+gun-selected-mode-examine = O modo de disparo é [color={ $color }]{ $mode }[/color].
+gun-fire-rate-examine = Taxa de tiro [color={ $color }]{ $fireRate }[/color] por segundo.
+gun-selector-verb = Alterar para { $mode }
+gun-selected-mode = { $mode } selecionado
 gun-disabled = Você não pode usar armas!
-gun-set-fire-mode = Defina como [color=yellow]{$mode}[/color].
-gun-magazine-whitelist-fail = Isso não cabe na arma!
-gun-magazine-fired-empty = Não sobrou munição!
-
+gun-clumsy = A arma explode na sua cara!
+gun-set-fire-mode = Modo { $mode } selecionado
+gun-alert-level-condition = O código da estação é muito baixo para este modo de disparo!
+gun-magazine-whitelist-fail = Não cabe em uma arma!
+gun-magazine-fired-empty = Não há mais cartuchos!
+gun-Insulated-gloves = Seus dedos são grossos demais para puxar o gatilho!
 # SelectiveFire
-gun-SemiAuto = semiautomático
-gun-Burst = explodido
-gun-FullAuto = totalmente automático
-
+gun-SemiAuto = semi-automático
+gun-Burst = fila
+gun-FullAuto = auto
 # BallisticAmmoProvider
-gun-ballistic-cycle = Ciclo
-gun-ballistic-cycled = Ciclo
-gun-ballistic-cycled-empty = Ciclo (vazio)
-gun-ballistic-transfer-invalid = {CAPITALIZE(THE($ammoEntity))} não cabe dentro de {THE($targetEntity)}!
-gun-ballistic-transfer-empty = {CAPITALIZE(THE($entity))} está vazio.
-gun-ballistic-transfer-target-full = {CAPITALIZE(THE($entity))} já está totalmente carregado.
-
+gun-ballistic-cycle = Distorcer
+gun-ballistic-cycled = Distorcido
+gun-ballistic-cycled-empty = Alta
+gun-ballistic-transfer-invalid = { CAPITALIZE($ammoEntity) } não pode ser colocado em { $targetEntity }!
+gun-ballistic-transfer-empty = { CAPITALIZE($entity) } está vazio.
+gun-ballistic-transfer-target-full = { CAPITALIZE($entity) } já está totalmente carregado.
 # CartridgeAmmo
-gun-cartridge-spent = É [color=red]gasto[/color].
-gun-cartridge-unspent = É [color=lime]não gasto[/color].
-
+gun-cartridge-spent = Está [color=red]usado[/color].
+gun-cartridge-unspent = É [color=lime]não usado[/color].
 # BatteryAmmoProvider
-gun-battery-examine = Tem carga suficiente para fotos [color={$color}]{$count}[/color].
-
+gun-battery-examine = 
+    Заряда хватит на [color={ $color }]{ $count }[/color] { $contagem -> 
+    [one] выстрел
+    [few] выстрела
+   *[other] выстрелов
+ }.
 # CartridgeAmmoProvider
-gun-chamber-bolt-ammo = Arma não aparafusada
-gun-chamber-bolt = O parafuso é [color={$color}]{$bolt}[/color].
-gun-chamber-bolt-closed = Parafuso fechado
-gun-chamber-bolt-opened = Parafuso aberto
-gun-chamber-bolt-close = Fechar parafuso
-gun-chamber-bolt-open = Parafuso aberto
+gun-chamber-bolt-ammo = A veneziana não está fechada
+gun-chamber-bolt = Portão [color={ $color }]{ $bolt }[/color].
+gun-chamber-bolt-closed = Obturador fechado
+gun-chamber-bolt-opened = O obturador está aberto
+gun-chamber-bolt-close = Feche o obturador
+gun-chamber-bolt-open = Abra o obturador
 gun-chamber-bolt-closed-state = abrir
 gun-chamber-bolt-open-state = fechado
-gun-chamber-rack = Prateleira
-
+gun-chamber-rack = Puxe o obturador
 # MagazineAmmoProvider
-gun-magazine-examine = Tem [color={$color}]{$count}[/color] disparos restantes.
+gun-magazine-examine = 
+    Тут [color={ $color }]{ $count }[/color] { $contagem -> 
+    [one] выстрел
+    [few] выстрела
+   *[other] выстрелов
+ }.
 # 🌟Starlight - Start🌟
-gun-magazine-ammo-type = Ele contém [color={$color}]{$type}[/color].
-gun-magazine-empty = A revista está vazia.
+gun-magazine-ammo-type = Contém [color={ $color }]{ $type }[/color].
+gun-magazine-empty = A loja está vazia.
 # 🌟Starlight - End🌟
 
 # RevolverAmmoProvider
-gun-revolver-empty = Revólver vazio
-gun-revolver-full = Revólver cheio
-gun-revolver-insert = Inserido
-gun-revolver-spin = Revólver giratório
-gun-revolver-spun = Fiado
-gun-speedloader-empty = Speedloader vazio
-
-# GunSpreadModifier
-examine-gun-spread-modifier-reduction = O spread foi reduzido em [color=yellow]{$percentage}%[/color].
-examine-gun-spread-modifier-increase = O spread foi aumentado em [color=yellow]{$percentage}%[/color].
+gun-revolver-empty = Descarregue o revólver
+gun-revolver-full = O revólver está totalmente carregado
+gun-revolver-insert = Cobrado
+gun-revolver-spin = Gire o tambor
+gun-revolver-spun = O tambor gira
+gun-speedloader-empty = O Speedloader está vazio

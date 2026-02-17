@@ -1,7 +1,7 @@
-ent-ReinforcedPlasmaWindow = janela de plasma reforçada
-    .desc = { ent-WindowRCDResistant.desc }
-ent-PlasmaReinforcedWindowDirectional = janela de plasma reforçada direcional
-    .desc = Não manche o vidro ali embaixo.
+ent-ReinforcedPlasmaWindow = janela blindada de plasma
+    .desc = { ent-Window.desc }
+ent-PlasmaReinforcedWindowDirectional = janela blindada de plasma direcional
+    .desc = Tenha cuidado para não bagunçar.
 ent-ReinforcedPlasmaWindowDiagonal = { ent-ReinforcedPlasmaWindow }
-    .suffix = diagonal
+    .suffix = Diagonal
     .desc = { ent-ReinforcedPlasmaWindow.desc }

@@ -1,8 +1,8 @@
 ent-ClothingBeltSheathSyndicateFilled = { ent-ClothingBeltSheathSyndicate }
     .suffix = Preenchido
     .desc = { ent-ClothingBeltSheathSyndicate.desc }
-ent-BeltSheathSyndieFilledBox = o Florete Embrulhado do Sindicato
-    .desc = Desembrulhar.
+ent-BeltSheathSyndieFilledBox = Espada Embrulhada do Sindicato
+    .desc = Invólucro.
 ent-ClothingBeltMilitaryWebbingMedSunriseFilled = { ent-ClothingBeltMilitaryWebbingMedSunrise }
     .suffix = Preenchido
     .desc = { ent-ClothingBeltMilitaryWebbingMedSunrise.desc }

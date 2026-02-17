@@ -1,8 +1,8 @@
 ent-FireAlarm = alarme de incêndio
-    .desc = Um alarme de incêndio. Apimentado!
-ent-FireAlarmAssembly = montagem de alarme de incêndio
-    .desc = Uma montagem de alarme de incêndio. Muito suave.
+    .desc = Alarme de incêndio. Fogo!
+ent-FireAlarmAssembly = caixa de alarme de incêndio
+    .desc = Carcaça de alarme de incêndio. Muito leve.
 ent-FireAlarmXeno = alarme de incêndio
-    .desc = Um alarme de incêndio alienígena. Funciona da mesma forma!
-ent-FireAlarmAssemblyXeno = montagem de alarme de incêndio
-    .desc = Um conjunto de alarme de incêndio alienígena. Boa sorte com os fios.
+    .desc = Alarme de incêndio alienígena. Funciona da mesma forma!
+ent-FireAlarmAssemblyXeno = módulo de alarme de incêndio alienígena
+    .desc = Módulo de alarme de incêndio alienígena. Boa sorte com os fios.

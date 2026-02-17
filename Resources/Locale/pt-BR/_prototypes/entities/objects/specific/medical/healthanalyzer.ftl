@@ -1,8 +1,8 @@
 ent-HandheldHealthAnalyzerUnpowered = analisador de saúde
-    .desc = Um scanner corporal portátil capaz de distinguir os sinais vitais do sujeito.
+    .desc = Um scanner corporal portátil capaz de detectar os sinais vitais de um paciente.
 ent-HandheldHealthAnalyzer = { ent-HandheldHealthAnalyzerUnpowered }
-    .suffix = Alimentado
+    .suffix = Cobrado
     .desc = { ent-HandheldHealthAnalyzerUnpowered.desc }
-ent-HandheldHealthAnalyzerEmpty = { ent-HandheldHealthAnalyzer }
+ent-HandheldHealthAnalyzerEmpty = { ent-HandheldHealthAnalyzerUnpowered }
     .suffix = Vazio
-    .desc = { ent-HandheldHealthAnalyzer.desc }
+    .desc = { ent-HandheldHealthAnalyzerUnpowered.desc }

@@ -1,5 +1,5 @@
 ent-Candle = vela
-    .desc = Um pavio fino enfiado na gordura.
+    .desc = Um pavio fino passou pela gordura.
 ent-CandleRed = vela vermelha
     .desc = { ent-Candle.desc }
 ent-CandleBlue = vela azul
@@ -23,8 +23,8 @@ ent-CandleGreenSmall = pequena vela verde
 ent-CandlePurpleSmall = pequena vela roxa
     .desc = { ent-CandleSmall.desc }
 ent-CandleInfinite = vela mágica
-    .desc = É magia ou alta tecnologia, mas esta vela nunca se apaga. Por outro lado, a sua chama é bastante fria.
-    .suffix = Decorativo
+    .desc = Quer se trate de magia ou de alta tecnologia, esta vela nunca se apaga. On the other hand, her flames are quite cold.
+    .suffix = Decoração
 ent-CandleRedInfinite = vela vermelha mágica
     .desc = { ent-CandleInfinite.desc }
 ent-CandleBlueInfinite = vela azul mágica

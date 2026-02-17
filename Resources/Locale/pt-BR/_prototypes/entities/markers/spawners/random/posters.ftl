@@ -1,6 +1,6 @@
-ent-RandomPosterAny = gerador de pôster aleatório
+ent-RandomPosterAny = pôster aleatório do spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomPosterContraband = gerador de cartaz de contrabando aleatório
+ent-RandomPosterContraband = cartaz de contrabando aleatório spawner
     .desc = { ent-MarkerBase.desc }
-ent-RandomPosterLegit = gerador de pôster legítimo aleatório
+ent-RandomPosterLegit = cartaz legal aleatório do spawner
     .desc = { ent-MarkerBase.desc }

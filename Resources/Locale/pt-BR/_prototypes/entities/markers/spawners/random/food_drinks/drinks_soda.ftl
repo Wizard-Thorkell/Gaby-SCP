@@ -1,2 +1,2 @@
-ent-RandomDrinkSoda = gerador de refrigerante aleatório
+ent-RandomDrinkSoda = refrigerante aleatório spawner
     .desc = { ent-MarkerBase.desc }

@@ -1,2 +1,2 @@
-ent-ScpAirlockAssembly = conjunto de câmara de ar
-    .desc = Ele abre, fecha e talvez esmague você.
+ent-ScpAirlockAssembly = quadro de gateway
+    .desc = Ele abre, fecha e pode esmagar você.

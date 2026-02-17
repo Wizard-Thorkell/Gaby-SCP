@@ -1,9 +1,9 @@
-ent-SpawnVendingMachineRestockFoodDrink = Reabastecimento de máquinas de venda automática
-    .suffix = comida ou bebida
+ent-SpawnVendingMachineRestockFoodDrink = kit de recarga de máquina de venda automática spawner
+    .suffix = Alimentos ou Bebidas
     .desc = { ent-MarkerBase.desc }
-ent-SpawnVendingMachineRestockFood = Reabastecimento de máquinas de venda automática
-    .suffix = comida
+ent-SpawnVendingMachineRestockFood = kit de recarga de máquina de venda automática spawner
+    .suffix = Comida
     .desc = { ent-MarkerBase.desc }
-ent-SpawnVendingMachineRestockDrink = Reabastecimento de máquinas de venda automática
-    .suffix = bebida
+ent-SpawnVendingMachineRestockDrink = kit de recarga de máquina de venda automática spawner
+    .suffix = Bebidas
     .desc = { ent-MarkerBase.desc }

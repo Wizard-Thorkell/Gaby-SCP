@@ -1,5 +1,5 @@
-ent-BalloonPirate1 = balão pirata
-    .desc = Após uma inspeção mais detalhada, este pirata é na verdade um balão.
+ent-BalloonPirate1 = bola pirata
+    .desc = Se você olhar de perto, esse pirata é na verdade um balão.
 ent-BalloonPirate2 = { ent-BalloonPirate1 }
     .desc = { ent-BalloonPirate1.desc }
 ent-BalloonPirate3 = { ent-BalloonPirate1 }

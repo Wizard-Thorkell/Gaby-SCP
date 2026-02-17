@@ -1,3 +1,3 @@
 ent-ClothingOuterChameleon = colete
-    .desc = Um colete grosso com revestimento emborrachado e resistente à água.
+    .desc = Um colete grosso com revestimento emborrachado e impermeável.
     .suffix = Camaleão

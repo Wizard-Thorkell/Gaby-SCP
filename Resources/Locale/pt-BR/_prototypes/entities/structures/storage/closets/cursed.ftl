@@ -1,3 +1,3 @@
 ent-ClosetCursed = armário
-    .desc = Uma unidade de armazenamento Nanotrasen padrão.
+    .desc = Armazenamento de base padrão.
     .suffix = amaldiçoado

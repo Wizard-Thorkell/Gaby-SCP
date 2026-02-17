@@ -1,2 +1,2 @@
-ent-MindRoleCultist = Papel do Cultista
+ent-MindRoleCultist = Cultista de Sangue
     .desc = { ent-BaseMindRoleAntag.desc }

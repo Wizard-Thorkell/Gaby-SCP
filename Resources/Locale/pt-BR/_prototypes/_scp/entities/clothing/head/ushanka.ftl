@@ -1,3 +1,3 @@
-ent-ClothingHeadHatUshankaScp = ushanka
-    .desc = Ideal para condições adversas da Sibéria.
+ent-ClothingHeadHatUshankaScp = protetores de ouvido
+    .desc = Ideal para as duras condições da Sibéria.
     .suffix = SCP

@@ -1,7 +1,7 @@
-ent-ClothingEyesBlindfold = venda
-    .desc = O vínculo que conduz os cegos.
+ent-ClothingEyesBlindfold = venda nos olhos
+    .desc = Uma tira de material impermeável.
 ent-ClothingEyesEyepatch = tapa-olho
-    .desc = Yarr.
+    .desc = Yarrr.
 ent-ClothingEyesEyepatchFlipped = { ent-ClothingEyesEyepatch }
-    .suffix = virado
+    .suffix = Invertido
     .desc = { ent-ClothingEyesEyepatch.desc }

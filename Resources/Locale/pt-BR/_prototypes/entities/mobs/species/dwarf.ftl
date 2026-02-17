@@ -1,4 +1,5 @@
-ent-BaseMobDwarf = Urist McHands, o anão
+ent-BaseMobDwarf = Anão Urist McHands
     .desc = { ent-BaseMobSpeciesOrganic.desc }
+    .suffix = Anão
 ent-MobDwarfDummy = { ent-BaseSpeciesDummy }
     .desc = { ent-BaseSpeciesDummy.desc }

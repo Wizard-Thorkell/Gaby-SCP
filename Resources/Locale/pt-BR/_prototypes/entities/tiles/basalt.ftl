@@ -1,5 +1,5 @@
 ent-BasaltOne = basalto
-    .desc = Pedra.
+    .desc = Pedra
 ent-BasaltTwo = { ent-BasaltOne }
     .desc = { ent-BasaltOne.desc }
 ent-BasaltThree = { ent-BasaltOne }

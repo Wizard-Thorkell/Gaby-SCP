@@ -1,2 +1,2 @@
-ent-OreBox = caixa de minério
-    .desc = Um grande recipiente de armazenamento para armazenar minérios não processados.
+ent-OreBox = banheira
+    .desc = Grande recipiente para armazenamento de minério bruto.

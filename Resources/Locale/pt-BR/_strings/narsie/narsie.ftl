@@ -1,2 +1,2 @@
-narsie-has-risen = NAR'SIE RESSUSCITOU
+narsie-has-risen = O REI ESCARLATE ESTÁ ACORDADO
 narsie-has-risen-sender = ???

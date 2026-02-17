@@ -1,3 +1,3 @@
 ent-JointVita = articulação
-    .desc = Um rolo de matéria vegetal seca embrulhado em papel fino.
+    .desc = Uma torção de fibras vegetais secas embrulhadas em papel fino.
     .suffix = Vita

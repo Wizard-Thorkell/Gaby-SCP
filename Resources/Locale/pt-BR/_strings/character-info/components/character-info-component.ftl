@@ -1,4 +1,4 @@
 character-info-title = Personagem
-character-info-roles-antagonist-text = Você não tem funções especiais
-character-info-objectives-label = Objetivos
-character-info-no-profession = Sem profissão
+character-info-roles-antagonist-text = Papéis antagonistas
+character-info-objectives-label = Metas
+character-info-no-profession = Sem posição

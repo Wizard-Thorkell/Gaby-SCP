@@ -1,2 +1,2 @@
-ent-ActionChargeSpell = Cobrar
-    .desc = Adiciona uma carga de volta à sua varinha
+ent-ActionChargeSpell = Carregador
+    .desc = Adiciona uma carga à sua varinha.

@@ -1,2 +1,2 @@
 ent-DoubleBed = cama de casal
-    .desc = Isso é usado para deitar, dormir ou amarrar. Descansar aqui proporciona uma cura extremamente lenta.
+    .desc = Para quem o conforto é o mais importante! Então, você vai se acostumar e se divertir!

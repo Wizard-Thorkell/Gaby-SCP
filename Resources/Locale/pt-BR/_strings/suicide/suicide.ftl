@@ -1,1 +1,1 @@
-﻿suicide-prevented = Você tentou suicídio, mas apenas seu espírito escapou.
+suicide-prevented = Você tentou suicídio, mas só conseguiu entregar o fantasma.

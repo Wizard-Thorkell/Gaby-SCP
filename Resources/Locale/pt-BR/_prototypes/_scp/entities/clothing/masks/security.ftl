@@ -1,5 +1,6 @@
-ent-ClothingMaskSecurityBandBlack = Bandana de segurança
-    .desc = Protege sua cabeça do sol, insetos e outras ameaças vindas de cima.
+ent-ClothingMaskSecurityBandBlack = bandana de segurança
+    .desc = Para proteger sua cabeça do sol, insetos e outras ameaças vindas de cima.
+    .suffix = Segurança SCP
 ent-ClothingMaskSecurityBalaklava = balaclava preta
-    .desc = Uma balaclava de segurança preta que não reflete luz e parece ligeiramente diferente cada vez que é vista.
-    .suffix = Guarda SCP
+    .desc = Balaclava preta de segurança. Não reflete luz e parece um pouco diferente a cada vez.
+    .suffix = Segurança SCP

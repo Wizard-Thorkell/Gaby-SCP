@@ -1,4 +1,4 @@
 ## EnterVerb
 
-medical-scanner-verb-enter = Digitar
-medical-scanner-verb-noun-occupant = ocupante
+medical-scanner-verb-enter = Escalar
+medical-scanner-verb-noun-occupant = paciente

@@ -1,3 +1,2 @@
-diona-gib-action-use = {$name} se separa em um instante!
-
-diona-reform-attempt = {$name} tenta reformar!
+diona-gib-action-use = { $name } desmorona instantaneamente!
+diona-reform-attempt = { $name } está tentando se recuperar!

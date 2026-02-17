@@ -1,6 +1,6 @@
-ent-ClothingOuterVestHazard = colete de alta visibilidade
-    .desc = Colete de alta visibilidade utilizado em zonas de trabalho.
+ent-ClothingOuterVestHazard = colete reflexivo
+    .desc = Colete de alta visibilidade utilizado em áreas industriais.
 ent-ClothingOuterVest = colete
-    .desc = Um colete grosso com revestimento emborrachado e resistente à água.
-ent-ClothingOuterVestTank = arnês do tanque
-    .desc = Um arnês simples que pode conter um tanque de gasolina.
+    .desc = Um colete grosso com revestimento emborrachado e impermeável.
+ent-ClothingOuterVestTank = chicote de cilindros
+    .desc = Um arnês simples que pode conter um cilindro de gás.

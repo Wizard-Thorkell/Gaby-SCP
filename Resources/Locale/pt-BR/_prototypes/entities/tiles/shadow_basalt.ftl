@@ -1,5 +1,5 @@
 ent-ShadowBasaltOne = pedra das sombras
-    .desc = Rachaduras brilhantes na realidade. Provavelmente está tudo bem.
+    .desc = Rachaduras brilhantes na realidade. Isso é normal, provavelmente.
 ent-ShadowBasaltTwo = { ent-ShadowBasaltOne }
     .desc = { ent-ShadowBasaltOne.desc }
 ent-ShadowBasaltThree = { ent-ShadowBasaltOne }

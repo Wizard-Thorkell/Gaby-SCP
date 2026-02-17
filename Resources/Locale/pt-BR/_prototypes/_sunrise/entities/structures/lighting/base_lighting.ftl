@@ -1,6 +1,6 @@
 ent-PoweredlightUV = { ent-Poweredlight }
-    .desc = Uma luminária. Consome energia e produz luz quando equipado com um tubo de luz.
-    .suffix = Ultravioleta
+    .desc = Lâmpada. Consome energia e produz luz ao instalar um tubo de luz.
+    .suffix = Ultra violeta
 ent-AlwaysPoweredLightUV = { ent-AlwaysPoweredWallLight }
-    .suffix = Sempre ligado, UV
+    .suffix = Sempre ligado, Ultra Violeta
     .desc = { ent-AlwaysPoweredWallLight.desc }

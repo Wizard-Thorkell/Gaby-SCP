@@ -11,4 +11,4 @@ ent-GasMixerFlipped = misturador de gás
     .suffix = Invertido
     .desc = { ent-GasMixer.desc }
 ent-PressureControlledValve = válvula pneumática
-    .desc = Uma válvula bidirecional controlada por pressão. Abre se o tubo de saída for inferior à pressão do tubo de controle em 101,325 kPa.
+    .desc = Válvula regulada por pressão.

@@ -1,2 +1,2 @@
 ent-Chainsaw = motosserra
-    .desc = Uma motosserra muito grande. Normalmente você usa isso para cortar árvores... normalmente.
+    .desc = Uma motosserra muito grande. Geralmente é usado para derrubar árvores...normalmente.

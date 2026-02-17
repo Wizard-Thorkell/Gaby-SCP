@@ -1,6 +1,6 @@
 ent-ShardCrystalBase = fragmento de cristal
     .desc = Um pequeno pedaço de cristal.
-ent-ShardCrystalCyan = fragmento de cristal ciano
+ent-ShardCrystalCyan = fragmento de cristal azul
     .desc = Um pequeno pedaço de cristal.
 ent-ShardCrystalBlue = fragmento de cristal azul
     .desc = { ent-ShardCrystalBase.desc }

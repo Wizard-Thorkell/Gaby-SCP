@@ -1,6 +1,6 @@
-ent-OrganCyber = órgão cibernético
+ent-OrganCyber = autoridade cibernética
     .desc = { ent-BaseItem.desc }
-ent-CyberEyeNightVision = Olhos cibernéticos NightVision
+ent-CyberEyeNightVision = olhos cibernéticos de visão noturna
     .desc = Permite que você veja no escuro.
-ent-CyberEyeThermal = Olhos cibernéticos ThermalVision
+ent-CyberEyeThermal = olhos cibernéticos de visão térmica
     .desc = Permite ver no escuro e detectar objetos quentes através das paredes.

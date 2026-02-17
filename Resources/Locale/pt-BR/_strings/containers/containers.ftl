@@ -1,5 +1,3 @@
-container-verb-text-enter = Digitar
-container-verb-text-empty = Vazio
-
-## missed
-container-thrown-missed = Perdido!
+container-verb-text-enter = Escalar
+container-verb-text-empty = Deixar
+container-thrown-missed = Perder!

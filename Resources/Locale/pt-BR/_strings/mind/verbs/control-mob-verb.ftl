@@ -1,1 +1,1 @@
-control-mob-verb-get-data-text = Controlar multidão
+control-mob-verb-get-data-text = Controle uma criatura

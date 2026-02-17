@@ -1,2 +1,2 @@
-reagent-name-dirty-water = água suja
+reagent-name-dirty-water = Água suja
 reagent-desc-dirty-water = Água suja e lamacenta.

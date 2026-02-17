@@ -1,2 +1,2 @@
-ent-RandomArcade = gerador de arcade aleatório
+ent-RandomArcade = arcade aleatório spawner
     .desc = { ent-MarkerBase.desc }

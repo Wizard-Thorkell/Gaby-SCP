@@ -1,3 +1,2 @@
-deployable-tool-deny = Esta ferramenta não é adequada.
-
-deployable-deploy-success = {$deployer} implanta {$target}.
+deployable-tool-deny = A ferramenta não cabe
+deployable-deploy-success = { $deployer } implanta { $target }

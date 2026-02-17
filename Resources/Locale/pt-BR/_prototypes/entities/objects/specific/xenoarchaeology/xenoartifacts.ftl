@@ -1,4 +1,5 @@
-ent-BaseXenoArtifact = artefato
-    .desc = Um estranho artefato de época desconhecida. Parece um bom momento.
+ent-BaseXenoArtifact = artefato alienígena
+    .desc = Estranho dispositivo alienígena.
+    .suffix = { "" }
 ent-ActionArtifactActivate = Ativar artefato
-    .desc = Ative-se, causando caos às pessoas próximas a você.
+    .desc = Ativa imediatamente o nó do artefato atual.

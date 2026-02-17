@@ -1,9 +1,9 @@
 ent-TelecomServerFilledLaw = { ent-TelecomServer }
-    .suffix = Lei
+    .suffix = Jurídico
     .desc = { ent-TelecomServer.desc }
 ent-TelecomServerFilledBlueShield = { ent-TelecomServer }
-    .suffix = Escudo Azul
+    .suffix = Escudo azul
     .desc = { ent-TelecomServer.desc }
 ent-TelecomServerFilledUSSP = { ent-TelecomServer }
-    .suffix = USSP
+    .suffix = SSSP
     .desc = { ent-TelecomServer.desc }

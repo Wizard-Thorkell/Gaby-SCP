@@ -1,4 +1,4 @@
-ent-PFigurineChaminaM = Chamina Maus
-    .desc = Uma pequena estatueta de Chamina Maus.
+ent-PFigurineChaminaM = Rato Chamina
+    .desc = Pequena estatueta de Hamina Mouse.
 ent-PFigurinePirateJugger = Murmillo
-    .desc = Uma pequena estatueta de um pirata da classe Murmillo. Está assistindo...
+    .desc = Pequena estatueta de um pirata da classe Murmillo. Ele está observando...

@@ -5,9 +5,8 @@ ent-LockerExternalAdministrativeZoneOfficerFilled = { ent-LockerExternalAdminist
     .suffix = Preenchido
     .desc = { ent-LockerExternalAdministrativeZoneOfficer.desc }
 ent-ScpLockerAmnesticologistFilled = { ent-ScpLockerAmnesticologist }
-    .suffix = Brigmedic, Preenchido
+    .suffix = Médico de campo, preenchido
     .desc = { ent-ScpLockerAmnesticologist.desc }
 ent-ScpLockerCommandantSquadFilledWardrobe = { ent-ScpLockerCommandantSquad }
-    .suffix = Preenchido, Guarda-roupa
+    .suffix = Cheio, Guarda-roupa
     .desc = { ent-ScpLockerCommandantSquad.desc }
-

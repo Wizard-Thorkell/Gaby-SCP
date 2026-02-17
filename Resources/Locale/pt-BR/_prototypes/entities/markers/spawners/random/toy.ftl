@@ -1,7 +1,7 @@
-ent-ToySpawner = Gerador de brinquedos
+ent-ToySpawner = brinquedos geradores
     .desc = { ent-MarkerBase.desc }
-ent-FigureSpawner = Gerador de estatuetas premiadas
+ent-FigureSpawner = gerador de figura
     .desc = { ent-MarkerBase.desc }
-ent-SpacemenFigureSpawner = Gerador de minifiguras de astronautas
-    .suffix = Somente bibliotecário, mapeie com cuidado!
+ent-SpacemenFigureSpawner = spawner minifiguras astronautas
+    .suffix = Apenas para bibliotecários, mapeie com cuidado!
     .desc = { ent-MarkerBase.desc }

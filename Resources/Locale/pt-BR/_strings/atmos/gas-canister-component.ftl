@@ -1,9 +1,9 @@
 ## UI
 
+
 # Bound Interface
 
-gas-canister-bound-user-interface-title = Vasilha de Gás
-
+gas-canister-bound-user-interface-title = Cilindro de gás
 # Popup
 gas-canister-popup-denied = Acesso negado
 
@@ -13,8 +13,8 @@ gas-canister-window-ok-text = OK
 gas-canister-window-edit-text = Editar
 gas-canister-window-label-label = Rótulo:
 gas-canister-window-pressure-label = Pressão:
-gas-canister-window-release-pressure-label = Pressão de liberação:
+gas-canister-window-release-pressure-label = Pressão de saída:
 gas-canister-window-valve-label = Válvula:
 gas-canister-window-valve-closed-text = Fechado
 gas-canister-window-valve-open-text = Abrir
-gas-canister-window-pressure-format-text = {$pressure}kPa
+gas-canister-window-pressure-format-text = { $pressure } kPa

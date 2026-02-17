@@ -1,4 +1,4 @@
-ent-MindRoleFleshCultist = Papel de Cultista de Carne
+ent-MindRoleFleshCultist = Papel do Cultista de Carne
     .desc = { ent-BaseMindRoleAntag.desc }
-ent-MindRoleFleshCultistLeader = Papel do Cultista do Líder Carne
+ent-MindRoleFleshCultistLeader = Papel do Cultista Líder de Carne
     .desc = { ent-BaseMindRoleAntag.desc }

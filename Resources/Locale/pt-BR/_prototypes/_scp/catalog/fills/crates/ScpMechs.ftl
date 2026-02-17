@@ -1,6 +1,9 @@
-ent-CrateAdministrationScpGygaxBundle = { ent-CrateAdministrationSecure }
-    .desc = { ent-CrateAdministrationSecure.desc }
-ent-CrateAdministrationMarauderBundle = { ent-CrateAdministrationSecure }
-    .desc = { ent-CrateAdministrationSecure.desc }
-ent-CrateAdministrationSeraphBundle = { ent-CrateAdministrationSecure }
-    .desc = { ent-CrateAdministrationSecure.desc }
+ent-CrateAdministrationScpGygaxBundle = Conjunto Gygax
+    .desc = Contém um conjunto de Mechs Levemente Blindados da Fundação SCP.
+    .suffix = Preenchido
+ent-CrateAdministrationMarauderBundle = definir "Saqueador"
+    .desc = Contém uma seleção de mechs da Fundação SCP fortemente blindados.
+    .suffix = Preenchido
+ent-CrateAdministrationSeraphBundle = definir "Serafim"
+    .desc = Contém uma seleção de mechs de elite da Fundação SCP fortemente blindados.
+    .suffix = Preenchido

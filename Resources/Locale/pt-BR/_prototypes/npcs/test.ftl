@@ -1,3 +1,3 @@
-ent-MobPathfindDummy = manequim de localização
-    .suffix = NPC
+ent-MobPathfindDummy = Manequim Pathfind
+    .suffix = IA
     .desc = { ent-MobXenoRouny.desc }

@@ -8,3 +8,4 @@ ent-ScpFigureSpawner = { ent-FigureSpawner }
     .desc = { ent-FigureSpawner.desc }
 ent-ScpSpacemenFigureSpawner = { ent-SpacemenFigureSpawner }
     .desc = { ent-SpacemenFigureSpawner.desc }
+    .suffix = { ent-SpacemenFigureSpawner.suffix }

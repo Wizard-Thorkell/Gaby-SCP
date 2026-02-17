@@ -1,24 +1,21 @@
 # sheets of steel
-materials-unit-sheet = folha
+materials-unit-sheet = folhas
 # bars of gold
-materials-unit-bar = bar
+materials-unit-bar = lingotes
 # planks of wood
-materials-unit-plank = prancha
+materials-unit-plank = placas
 # rolls of cloth
-materials-unit-roll = rolar
+materials-unit-roll = rolos
 # pieces of biomass
-materials-unit-piece = pedaço
+materials-unit-piece = unidades
 # bunches of bananium
-materials-unit-bunch = monte
+materials-unit-bunch = unidades
 # slabs of meat
-materials-unit-slab = laje
+materials-unit-slab = pedaços
 # webs of silk
-materials-unit-web = rede
+materials-unit-web = fios
 # chunks of ore
-materials-unit-chunk = pedaço
-# boll of cotton
-materials-unit-boll = cápsula
-
+materials-unit-chunk = pedaços de minério
 # bills of spesos... not very good but they are not (yet?) used for crafting anything
 # also the lathe/atm would need bigger denominations to output...
-materials-unit-bill = conta
+materials-unit-bill = notas

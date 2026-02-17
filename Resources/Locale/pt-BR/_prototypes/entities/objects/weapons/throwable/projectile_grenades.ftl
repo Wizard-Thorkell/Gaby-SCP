@@ -1,8 +1,8 @@
 ent-ProjectileGrenadeBase = { ent-BaseItem }
     .desc = { ent-BaseItem.desc }
-ent-GrenadeStinger = granada de ferrão
-    .desc = Nada para ver aqui, por favor, dispersem.
+ent-GrenadeStinger = granada traumática
+    .desc = Não há nada para ver aqui, por favor, saia.
 ent-GrenadeIncendiary = granada incendiária
-    .desc = Garantido para iluminar o clima.
-ent-GrenadeShrapnel = granada de estilhaços
-    .desc = Libera um spray mortal de estilhaços que causa sangramento grave.
+    .desc = Acenda esta noite.
+ent-GrenadeShrapnel = granada de fragmentação
+    .desc = Dispara estilhaços mortais que causam sangramento intenso.

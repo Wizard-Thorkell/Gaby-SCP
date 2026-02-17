@@ -1,3 +1,3 @@
 ent-LockerExternalAdministrativeZoneFieldDoctorFilled = { ent-LockerExternalAdministrativeZoneFieldDoctor }
-    .suffix = Brigmedic, Cheio
+    .suffix = Preenchido
     .desc = { ent-LockerExternalAdministrativeZoneFieldDoctor.desc }

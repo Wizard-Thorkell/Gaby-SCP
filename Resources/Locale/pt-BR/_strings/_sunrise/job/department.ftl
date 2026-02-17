@@ -1,4 +1,5 @@
-department-Law = Юридический отдел
-department-Blueshield = Синий Щит
-department-PlanetPrison = Планетарная тюрьма
-department-PlanetPrisonSecurity = охране ПТ
+department-Law = Departamento jurídico
+department-Blueshield = Escudo Azul
+department-PlanetPrison = Prisão Planetária
+department-SpecialOperations = Operações Especiais
+department-PlanetPrisonSecurity = proteção do PT

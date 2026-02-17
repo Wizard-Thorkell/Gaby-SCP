@@ -1,11 +1,6 @@
 ent-ScpAirlockExit = { ent-ScpAirlockRCDResistant }
-    .suffix = SCP, Sair
+    .suffix = { access-name-exit }
     .desc = { ent-ScpAirlockRCDResistant.desc }
 ent-ScpAirlockExitGlass = { ent-ScpAirlockExit }
-    .suffix = Vidro SCP, Saída
+    .suffix = { access-name-exit }, vidro
     .desc = { ent-ScpAirlockExit.desc }
-ent-ScpAirlockExternal = { ent-ScpAirlockRCDResistant }
-    .desc = { ent-ScpAirlockRCDResistant.desc }
-ent-ScpAirlockExternalGlass = { ent-ScpAirlockExternal }
-    .suffix = Vidro SCP, Externo
-    .desc = { ent-ScpAirlockExternal.desc }

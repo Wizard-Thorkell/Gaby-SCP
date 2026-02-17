@@ -1,2 +1,2 @@
-ent-ClothingNeckStoleChaplain = roubou capelão
-    .desc = Uma estola de design elegante, com um sinal dourado vibrante em cada extremidade.
+ent-ClothingNeckStoleChaplain = mesa do padre
+    .desc = Uma capa elegantemente desenhada com cruzes douradas brilhantes em ambas as extremidades.

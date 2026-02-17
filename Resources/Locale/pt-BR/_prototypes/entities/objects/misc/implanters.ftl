@@ -1,56 +1,96 @@
 ent-BaseImplanter = implantador
-    .desc = Uma seringa descartável concebida exclusivamente para a injeção de implantes subdérmicos.
+    .desc = Seringa descartável destinada exclusivamente à inserção de implantes subcutâneos.
 ent-Implanter = { ent-BaseImplanter }
     .desc = { ent-BaseImplanter.desc }
 ent-ImplanterExtractor = extrator de implante
-    .desc = "Uma seringa de dupla finalidade projetada para a remoção de implantes subdérmicos específicos. Depois que um implante é extraído, ele é armazenado e pode ser readministrado.\nAVISO: Erro do operador, como selecionar um tipo de implante não presente, causa trauma genético grave ao operador."
+    .desc = "Uma seringa de dupla finalidade projetada para remover certos implantes subcutâneos. Uma vez removido, o implante é retido no interior e pode ser reinserido.\nAVISO: Erro do operador, como selecionar o tipo de implante errado, causa lesões genéticas graves ao operador."
 ent-ImplanterAdmeme = { ent-ImplanterExtractor }
-    .suffix = Admeme
+    .suffix = Admemes
     .desc = { ent-ImplanterExtractor.desc }
 ent-BaseImplantOnlyImplanter = { ent-Implanter }
-    .desc = Uma seringa descartável concebida exclusivamente para a injeção de implantes subdérmicos.
-ent-BaseImplantOnlyImplanterSyndi = implantador de sindicato
-    .desc = Uma seringa descartável compacta projetada exclusivamente para injeção de implantes subdérmicos. Certifique-se de esfregar com sabão ou pano para remover o DNA residual após o uso!
-ent-SadTromboneImplanter = triste implantador de trombone
+    .desc = Seringa descartável destinada exclusivamente à inserção de implantes subcutâneos.
+ent-BaseImplantOnlyImplanterSyndi = { ent-BaseImplanter }
+    .desc = Seringa compacta e descartável destinada exclusivamente à inserção de implantes subcutâneos. Após o uso, esfregue-o com sabão ou pano para remover qualquer DNA restante!
+ent-SadTromboneImplanter = { ent-BaseImplanter }
+    .suffix = trombone triste
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-ent-LightImplanter = implantador de luz
+
+ent-LightImplanter = { ent-BaseImplanter }
+    .suffix = luz
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-ent-BikeHornImplanter = implantador de buzina de bicicleta
+
+ent-BikeHornImplanter = { ent-BaseImplanter }
+    .suffix = bip
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-ent-TrackingImplanter = implantador de rastreamento
+
+ent-TrackingImplanter = { ent-BaseImplanter }
+    .suffix = rastreador
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-ent-StorageImplanter = implantador de armazenamento
+
+ent-StorageImplanter = { ent-BaseImplanter }
+    .suffix = cofre, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-FreedomImplanter = implantador de liberdade
+
+ent-FreedomImplanter = { ent-BaseImplanter }
+    .suffix = liberdade, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-RadioImplanter = implantador de rádio sindicato
+
+ent-RadioImplanter = { ent-BaseImplanter }
+    .suffix = rádio, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-VoiceMaskImplanter = implantador de máscara de voz
+
+ent-VoiceMaskImplanter = { ent-BaseImplanter }
+    .suffix = máscara de voz, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-UplinkImplanter = implantador de uplink
+
+ent-UplinkImplanter = { ent-BaseImplanter }
+    .suffix = uplink, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-EmpImplanter = Implantador EMP
+
+ent-EmpImplanter = { ent-BaseImplanter }
+    .suffix = EMI, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-ScramImplanter = implantador scram
+
+ent-ScramImplanter = { ent-BaseImplanter }
+    .suffix = misturador, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-DnaScramblerImplanter = Implantador misturador de DNA
+
+ent-DnaScramblerImplanter = { ent-BaseImplanter }
+    .suffix = Misturador de DNA, Sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
+
 ent-ChameleonControllerImplanter = { ent-BaseImplantOnlyImplanterSyndi }
     .suffix = controlador camaleão
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-MicroBombImplanter = implantador de microbomba
+
+ent-MicroBombImplanter = { ent-BaseImplanter }
+    .suffix = micro-bomba, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-MacroBombImplanter = implantador de macrobomba
+
+ent-MacroBombImplanter = { ent-BaseImplanter }
+    .suffix = sindicato da macrobomba
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-DeathRattleImplanter = implantador de chocalho da morte
+
+ent-DeathRattleImplanter = { ent-BaseImplanter }
+    .suffix = sinal de morte, sindicato
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-DeathAcidifierImplanter = implantador de acidificador de morte
+
+ent-DeathAcidifierImplanter = { ent-BaseImplanter }
+    .suffix = sindicato da morte ácida
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-FakeMindShieldImplanter = implantador de escudo mental falso
+
+ent-FakeMindShieldImplanter = { ent-BaseImplanter }
+    .suffix = sindicato do falso escudo mental
     .desc = { ent-BaseImplantOnlyImplanterSyndi.desc }
-ent-MindShieldImplanter = implantador de escudo mental
+
+ent-MindShieldImplanter = { ent-BaseImplanter }
+    .suffix = escudo mental
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-ent-RadioImplanterCentcomm = implantador de rádio centcomm
+
+ent-RadioImplanterCentcomm = { ent-BaseImplanter }
+    .suffix = rádio, CentCom
     .desc = { ent-BaseImplantOnlyImplanter.desc }
-ent-DeathRattleImplanterCentcomm = implantador do chocalho da morte centcomm
+
+ent-DeathRattleImplanterCentcomm = { ent-BaseImplanter }
+    .suffix = sinal de morte, CentCom
     .desc = { ent-BaseImplantOnlyImplanter.desc }

@@ -1,6 +1,6 @@
 ent-SpawnScp173 = Gerador de SCP-173
     .desc = { ent-SpawnPointJobBase.desc }
-ent-Scp173StructureDamageBlocker = Bloqueador de danos estruturais de SCP-173
+ent-Scp173StructureDamageBlocker = Bloqueador de habilidade de SCP-173
     .desc = { ent-MarkerBase.desc }
 ent-SpawnScp096 = Gerador de SCP-096
     .desc = { ent-SpawnPointJobBase.desc }
@@ -14,7 +14,7 @@ ent-SpawnScp999 = Gerador de SCP-999
     .desc = { ent-SpawnPointJobBase.desc }
 ent-SpawnScp082 = Gerador de SCP-082
     .desc = { ent-SpawnPointJobBase.desc }
-ent-SpawnScp131A = Gerador de SCP-131A
+ent-SpawnScp131A = Gerador de SCP-131-A
     .desc = { ent-MarkerBase.desc }
 ent-SpawnScp131B = Gerador de SCP-131-B
     .desc = { ent-MarkerBase.desc }

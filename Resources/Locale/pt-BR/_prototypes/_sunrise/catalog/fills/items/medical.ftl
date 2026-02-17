@@ -1,6 +1,6 @@
 ent-MedkitUniversalFilled = kit médico universal
-    .desc = Contém todos os tipos de medicamentos que você precisa.
-    .suffix = Preenchido
+    .desc = Contém todos os tipos de medicamentos que você pode precisar.
+    .suffix = Concluído
 ent-CoalpenKitFilled = kit de primeiros socorros
-    .desc = É um kit médico de emergência para aquelas vaias sérias.
-    .suffix = Preenchido
+    .desc = Este é um kit de emergência para bo-bos sérios.
+    .suffix = Concluído

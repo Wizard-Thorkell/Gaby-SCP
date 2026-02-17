@@ -1,2 +1,3 @@
-ent-BaseRoomMarker = gerador de sala
+ent-BaseRoomMarker = marcador de sala
+    .suffix = Hah
     .desc = { ent-MarkerBase.desc }

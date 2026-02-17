@@ -1,10 +1,10 @@
-ent-RandomSyndicateCorpseSpawner = Gerador de cadáveres de sindicato aleatório
+ent-RandomSyndicateCorpseSpawner = gerador de cadáveres de sindicato aleatório
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
-ent-RandomNukieCorpseSpawner = Gerador aleatório de cadáveres Nukie
+ent-RandomNukieCorpseSpawner = gerador de um cadáver operacional nuclear aleatório
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
-ent-RandomSovietCorpseSpawner = Gerador de cadáver soviético aleatório
+ent-RandomSovietCorpseSpawner = gerador de um cadáver soviético aleatório
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
-ent-RandomMercenaryCorpseSpawner = Gerador de cadáveres mercenários aleatórios
+ent-RandomMercenaryCorpseSpawner = gerador de um cadáver mercenário aleatório
     .desc = { ent-SalvageHumanCorpseSpawner.desc }
-ent-RandomPirateCorpseSpawner = Gerador aleatório de cadáveres de piratas
+ent-RandomPirateCorpseSpawner = gerador aleatório de cadáveres de piratas
     .desc = { ent-SalvageHumanCorpseSpawner.desc }

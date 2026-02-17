@@ -1,2 +1,2 @@
-# bags of concrete
+# мешки цемента
 materials-unit-bag = bolsas

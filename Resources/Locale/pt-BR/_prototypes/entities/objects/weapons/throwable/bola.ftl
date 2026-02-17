@@ -1,2 +1,2 @@
 ent-Bola = bola
-    .desc = Ligados com alguns punhos sobressalentes e metal.
+    .desc = Abraçadeiras fixadas em metal.

@@ -1,7 +1,7 @@
 ent-PlasmaWindow = janela de plasma
-    .desc = { ent-WindowRCDResistant.desc }
+    .desc = { ent-Window.desc }
 ent-PlasmaWindowDirectional = janela de plasma direcional
-    .desc = Não manche o vidro ali embaixo.
+    .desc = Tenha cuidado para não bagunçar.
 ent-PlasmaWindowDiagonal = { ent-PlasmaWindow }
-    .suffix = diagonal
+    .suffix = Diagonal
     .desc = { ent-PlasmaWindow.desc }

@@ -1,9 +1,9 @@
 ent-MopBucket = balde de esfregão
-    .desc = Contém a água e as lágrimas do zelador.
+    .desc = Contém água e lágrimas de limpador.
 ent-MopBucketFull = balde de esfregão
-    .suffix = completo
+    .suffix = Completo
     .desc = { ent-MopBucket.desc }
 ent-MopBucketCubeWrapped = cubo de balde de esfregão
-    .desc = Desembrulhe para obter um cubo de balde de esfregão.
+    .desc = Desdobre para revelar um cubo de balde de esfregão.
 ent-JanitorialTrolley = carrinho de limpeza
     .desc = Este é o alfa e o ômega do saneamento.

@@ -1,6 +1,10 @@
-species-name-felinid = Felinid
-species-name-swine = Троттин
-species-name-tajaran = Таяран
-species-name-predator = Яутжа
-species-name-xeno = Ксеноморф
-species-name-resomi = Resomi
+species-name-felinid = Felinídeo
+species-name-swine = Trote
+species-name-tajaran = Tayaran
+species-name-predator = Yautja
+species-name-xeno = Xenomorfo
+species-name-demon = Arcano
+species-name-resomi = Rezomi
+species-name-abductor = Abdutor
+species-name-milira = Milira
+species-name-vulpkanin = Vulpcanina

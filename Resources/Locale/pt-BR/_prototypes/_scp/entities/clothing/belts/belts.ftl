@@ -1,2 +1,2 @@
-ent-ClothingBeltChaos = { ent-ClothingBeltStorageBase }
-    .desc = { ent-ClothingBeltStorageBase.desc }
+ent-ClothingBeltChaos = Cinto rebelde
+    .desc = Melhor que SCP. Por que? Porque isso é o Caos.

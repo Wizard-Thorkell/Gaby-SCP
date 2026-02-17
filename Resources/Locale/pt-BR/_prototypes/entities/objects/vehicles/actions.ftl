@@ -1,2 +1,2 @@
-ent-ActionVehicleHorn = Buzinar
-    .desc = Buzina!
+ent-ActionVehicleHorn = Bip
+    .desc = Bip bip!

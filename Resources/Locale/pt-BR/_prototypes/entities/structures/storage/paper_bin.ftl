@@ -1,5 +1,5 @@
-ent-PaperBin = caixa de papel
-    .desc = Que segredos estão no fundo de sua pilha interminável?
+ent-PaperBin = cesto de lixo
+    .desc = Que segredos estão por trás de sua pilha interminável?
     .suffix = Vazio
 ent-PaperBin5 = { ent-PaperBin }
     .suffix = 5

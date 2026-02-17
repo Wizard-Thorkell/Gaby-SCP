@@ -1,3 +1,3 @@
-anchorable-anchored = Ancorado
-anchorable-unanchored = Não ancorado
-anchorable-occupied = Bloco ocupado
+anchorable-anchored = Fixado
+anchorable-unanchored = Não protegido
+anchorable-occupied = A peça já está ocupada

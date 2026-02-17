@@ -1,5 +1,5 @@
-ent-MrChips = senhor fichas
-    .desc = É um manequim, manequim!
-    .suffix = Fictício
-ent-MrDips = senhor mergulha
+ent-MrChips = Senhor Chips
+    .desc = É uma boneca!
+    .suffix = Boneca
+ent-MrDips = Senhor mergulhos
     .desc = { ent-MrChips.desc }

@@ -1,8 +1,8 @@
 ent-SurgeryLimbAttachmentStep = anexar um membro
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepRejoinNerves = Junte-se aos nervos
+ent-SurgeryStepRejoinNerves = Conecte seus nervos
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepRejoinBloodVessels = Junte-se novamente aos vasos sanguíneos
+ent-SurgeryStepRejoinBloodVessels = Conecte os vasos sanguíneos
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepRestoreCartilage = Restaurar Cartilagem
+ent-SurgeryStepRestoreCartilage = Restaurar cartilagem
     .desc = { ent-SurgeryStepBase.desc }

@@ -1,4 +1,4 @@
 ent-ChopSticks = pauzinhos
-    .desc = Um utensílio muito tradicional.
+    .desc = Talheres muito tradicionais.
 ent-PairedChopsticks = pauzinhos emparelhados
-    .desc = Você provavelmente deveria separá-los.
+    .desc = Talvez eles precisem ser separados.

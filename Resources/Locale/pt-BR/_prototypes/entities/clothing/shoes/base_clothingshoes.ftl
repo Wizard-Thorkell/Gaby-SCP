@@ -8,4 +8,4 @@ ent-ClothingShoesBootsSecFilled = { "" }
     .suffix = Preenchido
     .desc = { "" }
 ent-ClothingShoesBaseWinterBoots = { ent-ClothingShoesBaseButcherable }
-    .desc = Botas fofas para ajudar a sobreviver até mesmo nos invernos mais frios.
+    .desc = Botas de pele que o ajudarão a sobreviver até aos invernos mais rigorosos.

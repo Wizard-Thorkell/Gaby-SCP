@@ -1,8 +1,8 @@
-ent-SurgeryStepExposeNerves = Expor os nervos
+ent-SurgeryStepExposeNerves = Abra os nervos
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepExposeBloodVessels = Expor vasos sanguíneos
+ent-SurgeryStepExposeBloodVessels = Vasos sanguíneos abertos
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepDeepIncision = Incisão Profunda
+ent-SurgeryStepDeepIncision = Corte profundo
     .desc = { ent-SurgeryStepBase.desc }
 ent-SurgeryStepRetractSkin = Retraia a pele
     .desc = { ent-SurgeryStepBase.desc }

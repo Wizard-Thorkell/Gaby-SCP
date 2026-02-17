@@ -1,3 +1,3 @@
 ent-BookshelfFilled = { ent-Bookshelf }
-    .suffix = preenchido aleatoriamente
+    .suffix = Preenchido, Aleatório
     .desc = { ent-Bookshelf.desc }

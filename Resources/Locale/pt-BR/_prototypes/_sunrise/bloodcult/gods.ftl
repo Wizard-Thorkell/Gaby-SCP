@@ -1,6 +1,6 @@
-ent-BaseBloodCultGod = Nar'si
+ent-BaseBloodCultGod = Nar'Sie
     .desc = { "" }
-ent-Narsie = Nar'Si
+ent-Narsie = Nar'Sie
     .desc = { ent-BaseBloodCultGod.desc }
 ent-Narbee = Pir'Kus
     .desc = { ent-BaseBloodCultGod.desc }

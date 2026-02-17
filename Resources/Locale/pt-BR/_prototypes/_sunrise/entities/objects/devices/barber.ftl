@@ -1,7 +1,7 @@
 ent-BarberRazor = barbeador elétrico
-    .desc = Usado por cabeleireiros para modificar penteados.
+    .desc = Usado por cabeleireiros para mudar penteados.
 ent-BaseBarberHairDye = { ent-BaseItem }
-    .desc = Utilizado por cabeleireiros para mudar a cor do penteado.
+    .desc = Usado por cabeleireiros para mudar a cor do cabelo.
 ent-BarberHairDyeBlue = tintura de cabelo azul
     .desc = { ent-BaseBarberHairDye.desc }
 ent-BarberHairDyeRed = tintura de cabelo ruivo

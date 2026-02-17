@@ -1,7 +1,7 @@
 ent-UraniumWindow = janela de urânio
-    .desc = { ent-WindowRCDResistant.desc }
+    .desc = { ent-Window.desc }
 ent-UraniumWindowDirectional = janela direcional de urânio
-    .desc = Não manche o vidro ali embaixo.
+    .desc = Tenha cuidado para não bagunçar.
 ent-UraniumWindowDiagonal = { ent-UraniumWindow }
-    .suffix = diagonal
+    .suffix = Diagonal
     .desc = { ent-UraniumWindow.desc }

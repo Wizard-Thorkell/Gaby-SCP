@@ -1,6 +1,6 @@
-ent-BaseMagazineBattery = revista (laser)
+ent-BaseMagazineBattery = loja (laser)
     .desc = { ent-BaseItem.desc }
-ent-MagazineBatteryLr30 = revista (laser)
+ent-MagazineBatteryLr30 = loja (laser)
     .desc = { ent-BaseMagazineBattery.desc }
-ent-MagazineBatteryLr60 = revista grande (laser)
+ent-MagazineBatteryLr60 = grande loja (laser)
     .desc = { ent-BaseMagazineBattery.desc }

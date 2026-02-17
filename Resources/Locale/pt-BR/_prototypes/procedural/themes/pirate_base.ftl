@@ -1,2 +1,2 @@
-ent-SyndicateBaseRoomMarker = marcador de sala base do sindicato
+ent-SyndicateBaseRoomMarker = Marcador base do sindicato
     .desc = { ent-BaseRoomMarker.desc }

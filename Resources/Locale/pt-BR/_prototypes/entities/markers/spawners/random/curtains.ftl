@@ -1,2 +1,2 @@
-ent-CurtainSpawner = gerador de cortina aleatório
+ent-CurtainSpawner = cortinas aleatórias spawner
     .desc = { ent-MarkerBase.desc }

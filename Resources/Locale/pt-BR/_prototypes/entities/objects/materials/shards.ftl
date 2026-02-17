@@ -1,12 +1,12 @@
 ent-ShardBase = { ent-BaseItem }
-    .desc = É um fragmento de algum material desconhecido.
+    .desc = Este é um fragmento de algum material desconhecido.
 ent-ShardGlass = caco de vidro
     .desc = Um pequeno pedaço de vidro.
-ent-ShardGlassReinforced = caco de vidro reforçado
+ent-ShardGlassReinforced = fragmento de vidro à prova de balas
     .desc = Um pequeno pedaço de vidro reforçado.
 ent-ShardGlassPlasma = fragmento de vidro plasma
     .desc = Um pequeno pedaço de vidro plasma.
-ent-ShardGlassUranium = caco de vidro de urânio
+ent-ShardGlassUranium = fragmento de vidro de urânio
     .desc = Um pequeno pedaço de vidro de urânio.
-ent-ShardGlassClockwork = caco de vidro mecânico
-    .desc = Um pequeno pedaço de vidro com infusão de latão.
+ent-ShardGlassClockwork = caco de vidro sinuoso
+    .desc = Um pequeno pedaço de vidro intercalado com latão.

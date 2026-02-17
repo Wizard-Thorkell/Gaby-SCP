@@ -1,2 +1,2 @@
-ent-FleshBlocker = aglomerado de carne
+ent-FleshBlocker = pedaço de carne
     .desc = Um pedaço irritante de carne.

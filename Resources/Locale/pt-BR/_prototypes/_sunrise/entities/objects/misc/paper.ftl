@@ -1,4 +1,4 @@
-ent-StationGoalPaper = mensagem centcomm do objetivo da estação
+ent-StationGoalPaper = mensagem do Comitê Central sobre o objetivo atual da estação
     .desc = Parece que você tem muito trabalho a fazer.
-ent-HolographicPaper = papel de escritório
-    .desc = Uma folha comum de papel de escritório.
+ent-HolographicPaper = holo-comprimido
+    .desc = Tablet futurista usado para registrar informações.

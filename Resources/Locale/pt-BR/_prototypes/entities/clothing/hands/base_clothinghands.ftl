@@ -9,6 +9,6 @@ ent-RingBase = { ent-BaseItem }
 ent-GoldRingBase = { "" }
     .desc = { "" }
 ent-SilverRingBase = anel de prata
-    .desc = Parece um pouco menos valioso que um ouro.
+    .desc = Parece um pouco menos valioso que o ouro.
 ent-ClothingHandsSmooth = { ent-ClothingHandsBase }
     .desc = { ent-ClothingHandsBase.desc }

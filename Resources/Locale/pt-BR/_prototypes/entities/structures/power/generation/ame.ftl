@@ -1,7 +1,7 @@
-ent-AmeController = Controlador AME
-    .desc = É um controlador do motor de antimatéria.
+ent-AmeController = Controlador DAM
+    .desc = Este é o controlador do motor de antimatéria.
 ent-AmeControllerUnanchored = { ent-AmeController }
-    .suffix = Não ancorado
+    .suffix = Não protegido
     .desc = { ent-AmeController.desc }
-ent-AmeShielding = Blindagem AME
-    .desc = Mantém a antimatéria dentro e a matéria fora.
+ent-AmeShielding = blindagem DAM
+    .desc = Permite que a antimatéria entre e saia.

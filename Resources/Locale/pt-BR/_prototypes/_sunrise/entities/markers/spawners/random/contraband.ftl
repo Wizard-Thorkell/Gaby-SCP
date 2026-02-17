@@ -1,5 +1,5 @@
 ent-LootSpawnerContrabandLow = criador de contrabando
-    .suffix = Baixo valor
+    .suffix = Valor baixo
     .desc = { ent-MarkerBase.desc }
 ent-LootSpawnerContraband = criador de contrabando
     .desc = { ent-MarkerBase.desc }

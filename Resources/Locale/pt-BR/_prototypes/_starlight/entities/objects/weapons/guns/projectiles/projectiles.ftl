@@ -1,6 +1,6 @@
-ent-BaseBulletStarlight = BaseBullet
-    .desc = Se você consegue ver isso, provavelmente está morto!
-ent-BulletAdvTaser = parafuso de choque
+ent-BaseBulletStarlight = Marcador básico
+    .desc = Se você ver isso, provavelmente você está morto!
+ent-BulletAdvTaser = Descarga Taser
     .desc = { ent-BaseBulletStarlight.desc }
 ent-BaseBulletRubber = { ent-BaseBulletStarlight }
     .desc = { ent-BaseBulletStarlight.desc }

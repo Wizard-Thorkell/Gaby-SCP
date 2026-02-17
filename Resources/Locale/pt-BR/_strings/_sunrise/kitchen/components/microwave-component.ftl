@@ -1,12 +1,12 @@
-microwave-component-medical-assembler-interact-item-too-big = { CAPITALIZE(THE($item)) } é grande demais para caber na montadora médica!
-microwave-component-assembler-no-valid-recipe = Nenhuma receita válida encontrada!
+microwave-component-medical-assembler-interact-item-too-big = { CAPITALIZE(THE($item)) } não cabe no Med-O-Mat.
+microwave-component-assembler-no-valid-recipe = Nenhuma receita adequada
 ## Bound UI
 assembler-bound-user-interface-insert-ingredients = INSERIR MATERIAIS
-assembler-bound-user-interface-cook-time-label = TEMPO RESTANTE: {$time}
+assembler-bound-user-interface-cook-time-label = TEMPO RESTANTE: { $time }
 ## UI
 
-assembler-menu-medical-title = Montador Médico
-assembler-menu-start-button = Montar
+assembler-menu-medical-title = Med-O-Mat
+assembler-menu-start-button = Comece a construir
 
-assembler-menu-medical-footer-flavor-left = Certificado 99,99% nanoestéril.
+assembler-menu-medical-footer-flavor-left = 99,99% estéril.
 assembler-menu-footer-flavor-right = v0.2.1

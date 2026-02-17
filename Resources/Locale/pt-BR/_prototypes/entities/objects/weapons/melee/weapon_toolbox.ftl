@@ -1,2 +1,3 @@
 ent-WeaponMeleeToolboxRobust = caixa de ferramentas robusta
-    .desc = A arma de um maré.
+    .desc = Arma maior.
+    .suffix = NÃO MAPEE

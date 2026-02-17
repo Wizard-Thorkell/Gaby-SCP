@@ -1,3 +1,3 @@
-ent-RandomVendingSnacks = gerador de máquina de venda aleatória
+ent-RandomVendingSnacks = máquina de venda aleatória spawner
     .suffix = Lanches
     .desc = { ent-MarkerBase.desc }

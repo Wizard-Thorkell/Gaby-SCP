@@ -5,5 +5,5 @@ ent-LockerHeavyContainmentZoneOfficerFilled = { ent-LockerHeavyContainmentZoneOf
     .suffix = Preenchido
     .desc = { ent-LockerHeavyContainmentZoneOfficer.desc }
 ent-ScpLockerSpecialPurposeSquadFilledWardrobe = { ent-ScpLockerSpecialPurposeSquad }
-    .suffix = Cheio, Guarda-roupa
+    .suffix = Abastecido, guarda-roupa
     .desc = { ent-ScpLockerSpecialPurposeSquad.desc }

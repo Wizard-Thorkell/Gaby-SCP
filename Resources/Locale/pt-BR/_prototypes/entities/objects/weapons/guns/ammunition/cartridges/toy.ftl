@@ -1,4 +1,4 @@
-ent-BaseCartridgeCap = cartucho (tampa)
+ent-BaseCartridgeCap = cartucho (pistão)
     .desc = { ent-BaseCartridge.desc }
-ent-CartridgeCap = cartucho de arma de boné
+ent-CartridgeCap = pistão
     .desc = { ent-BaseCartridgeCap.desc }

@@ -1,5 +1,5 @@
 ent-GasPipeSensor = sensor de tubulação de gás
-    .desc = Relatórios sobre o estado do gás na rede de tubulações anexa.
+    .desc = Fornece informações sobre o estado do gás na tubulação conectada.
 ent-GasPipeSensorDistribution = { ent-GasPipeSensor }
     .suffix = Distribuição
     .desc = { ent-GasPipeSensor.desc }
@@ -7,7 +7,7 @@ ent-GasPipeSensorWaste = { ent-GasPipeSensor }
     .suffix = Desperdício
     .desc = { ent-GasPipeSensor.desc }
 ent-GasPipeSensorMixedAir = { ent-GasPipeSensor }
-    .suffix = Ar misto
+    .suffix = Mistura de ar
     .desc = { ent-GasPipeSensor.desc }
 ent-GasPipeSensorTEGHot = { ent-GasPipeSensor }
     .suffix = TEG quente

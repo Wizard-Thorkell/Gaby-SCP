@@ -1,2 +1,2 @@
 ent-LowWall = muro baixo
-    .desc = Vai até a cintura.
+    .desc = Atinge aproximadamente a cintura.

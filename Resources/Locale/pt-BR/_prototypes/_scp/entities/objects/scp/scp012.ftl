@@ -1,3 +1,3 @@
 ent-Scp012 = ???
-    .desc = Um manuscrito musical intitulado “No Monte Gólgota”. Parece estar inacabado.
+    .desc = Manuscrito musical intitulado "No Monte Gólgota". Parece... inacabado.
     .suffix = SCP-012

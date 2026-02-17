@@ -1,4 +1,4 @@
 advertisement-robodrobe-1 = Você me torna VERDADEIRO, use define!
-advertisement-robodrobe-2 = 0110001101101100011011110111010001101000011001010111001101101000011001010111001001100101
-advertisement-robodrobe-3 = Roube alguém da manutenção e transforme-o em um robô!
+advertisement-robodrobe-2 = 110100001011111011010000101101001101000010110101110100001011011011010000101101001101000010110000
+advertisement-robodrobe-3 = Sequestre alguém dos túneis tecnológicos e transforme-o em um ciborgue!
 advertisement-robodrobe-4 = Robótica é divertida!

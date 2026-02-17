@@ -1,6 +1,6 @@
-ent-BaseBloodSplatter = respingos de sangue
-    .desc = { ent-Footstep.desc }
-ent-BaseBloodParticle = respingos de sangue
+ent-BaseBloodSplatter = derrubar
+    .desc = Pequena gota de líquido
+ent-BaseBloodParticle = { ent-BaseLiquidParticle }
     .desc = { ent-BaseLiquidParticle.desc }
 ent-BloodSplatter1 = { ent-BaseBloodSplatter }
     .desc = { ent-BaseBloodSplatter.desc }
@@ -14,11 +14,13 @@ ent-BloodSplatter5 = { ent-BaseBloodSplatter }
     .desc = { ent-BaseBloodSplatter.desc }
 ent-BloodSplatter6 = { ent-BaseBloodSplatter }
     .desc = { ent-BaseBloodSplatter.desc }
+
 ent-BloodParticle1 = { ent-BaseBloodParticle }
     .desc = { ent-BaseBloodParticle.desc }
 ent-BloodParticle2 = { ent-BaseBloodParticle }
     .desc = { ent-BaseBloodParticle.desc }
 ent-BloodParticle3 = { ent-BaseBloodParticle }
     .desc = { ent-BaseBloodParticle.desc }
-ent-BloodLine = linha de sangue
-    .desc = { ent-BaseBloodSplatter.desc }
+
+ent-BloodLine = tira de líquido
+    .desc = Um líquido entremeado. Algo espirrou com muita força nessa direção!

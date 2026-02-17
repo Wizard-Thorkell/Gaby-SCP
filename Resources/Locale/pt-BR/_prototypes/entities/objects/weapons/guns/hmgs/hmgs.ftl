@@ -1,4 +1,5 @@
-ent-BaseWeaponHeavyMachineGun = BaseWeaponHeavyMachineGun
-    .desc = Pulverize e ore.
+ent-BaseWeaponHeavyMachineGun = Metralhadora pesada padrão
+    .desc = Cair e rezar
 ent-WeaponMinigun = metralhadora
-    .desc = Vzzzzt! Rahrahrahrah! Vrrrr! Usa munição de rifle .10.
+    .desc = Zzzzzt! Rahrahrahrahrah! Vrrrr! Usa munição calibre .10 rifle.
+    .suffix = Metralhadora

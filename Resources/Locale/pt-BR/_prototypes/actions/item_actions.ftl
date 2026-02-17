@@ -1,3 +1,3 @@
-ent-ItemActionExample = exemplo de ação de item
-    .desc = para testar ações de itens
+ent-ItemActionExample = exemplo da ação de um item
+    .desc = para testar as ações de objetos
     .suffix = DEPURAR

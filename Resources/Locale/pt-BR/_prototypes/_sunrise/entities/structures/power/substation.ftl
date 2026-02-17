@@ -1,3 +1,3 @@
-ent-SubstationExtended = { ent-BaseSubstation }
-    .suffix = Básico, Estendido, 7,5MJ
-    .desc = { ent-BaseSubstation.desc }
+ent-SubstationExtended = subestação
+    .desc = Reduz a tensão da eletricidade fornecida a ele.
+    .suffix = Ampliado, 7,5MJ

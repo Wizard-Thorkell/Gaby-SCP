@@ -1,2 +1,2 @@
-ent-RandomProduce = gerador de produtos aleatórios
+ent-RandomProduce = spawner planta aleatória fruta
     .desc = { ent-MarkerBase.desc }

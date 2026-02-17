@@ -1,3 +1,3 @@
 ent-ClothingHeadHelmetSwatScp = capacete
-    .desc = Um capacete muito robusto.
+    .desc = Capacete muito robusto.
     .suffix = SCP

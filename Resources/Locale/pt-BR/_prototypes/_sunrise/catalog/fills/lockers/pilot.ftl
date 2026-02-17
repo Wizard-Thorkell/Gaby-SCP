@@ -1,3 +1,3 @@
 ent-LockerPilotFilledHardsuit = { ent-LockerPilot }
-    .suffix = Cheio, Hardsuit
+    .suffix = Cheio, traje espacial
     .desc = { ent-LockerPilot.desc }

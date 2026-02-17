@@ -1,6 +1,8 @@
-ent-Scp106CatwalkBase = { ent-Catwalk }
-    .desc = { ent-Catwalk.desc }
+ent-Scp106CatwalkBase = malha de contenção
+    .desc = Uma invenção de alta tecnologia para influenciar o nível de Hume para combater objetos extradimensionais
 ent-Scp106CatwalkTarget = { ent-Scp106CatwalkBase }
-    .desc = { ent-Scp106CatwalkBase.desc }
+    .desc = { ent-Scp106CatwalkBase }
+    .suffix = Alvo
 ent-Scp106CatwalkContainer = { ent-Scp106CatwalkBase }
-    .desc = { ent-Scp106CatwalkBase.desc }
+    .desc = { ent-Scp106CatwalkBase }
+    .suffix = Restrição

@@ -1,8 +1,8 @@
 ent-FoodJellyScp999 = geléia de laranja
-    .desc = Uma geleia de aspecto apetitoso.
+    .desc = Gelatina com aspecto delicioso
 ent-FoodBakedBunJelly = pão de gelatina
-    .desc = Um pãozinho suculento, e por dentro... geleia suculenta!
+    .desc = Pãozinho suculento, e por dentro... geleia suculenta!
 ent-FoodPizzaJelly = pizza de gelatina
-    .desc = Pizza fresca coberta com geleia de laranja.
+    .desc = Pizza fresca coberta com geleia de laranja
 ent-FoodPizzaJellySlice = fatia de pizza de gelatina
-    .desc = Uma pequena parte de um grande prazer.
+    .desc = Uma pequena parte de um grande prazer

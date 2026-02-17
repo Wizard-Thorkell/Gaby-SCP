@@ -8,5 +8,5 @@ ent-GasVentPumpVox = { ent-GasVentPump }
 ent-GasVentScrubberVox = { ent-GasVentScrubber }
     .desc = { ent-GasVentScrubber.desc }
 ent-AirAlarmVox = { ent-AirAlarm }
-    .suffix = Vox Atmosphere, modo automático desativado
+    .suffix = Atmosfera Vox, modificação automática desativada
     .desc = { ent-AirAlarm.desc }

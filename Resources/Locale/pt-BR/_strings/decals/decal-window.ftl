@@ -1,7 +1,7 @@
-﻿decal-placer-window-title = Colocador de decalques
-decal-placer-window-use-color = Cor personalizada
-decal-placer-window-rotation = Rotação
-decal-placer-window-zindex = Profundidade do desenho
+decal-placer-window-title = Instalador de decalque
+decal-placer-window-use-color = Sua cor
+decal-placer-window-rotation = Vez
+decal-placer-window-zindex = Com profundidade
 decal-placer-window-enable-auto = Usar configurações automáticas
 decal-placer-window-enable-snap = Ajustar ao bloco
 decal-placer-window-enable-cleanable = Lavável

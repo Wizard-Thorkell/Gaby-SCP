@@ -1,2 +1,2 @@
 ent-DeployableBarrier = barreira implantável
-    .desc = Uma barreira implantável. Passe seu cartão de identificação para bloqueá-lo/desbloqueá-lo.
+    .desc = Barreira implantável. Mostre seu cartão de identificação para bloqueá-lo/desbloqueá-lo.

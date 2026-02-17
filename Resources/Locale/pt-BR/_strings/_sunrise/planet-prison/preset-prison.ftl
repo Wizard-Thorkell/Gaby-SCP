@@ -1,12 +1,12 @@
-planet-prison-not-enough-players = Não use os jogos para a operação planejada do planeta, não há mais { $minimumPlayers } jogos.
-planet-prison-select-map = A solução para o problema é seu cartão: { $stationName }
-planet-prison-select-biome = Случайным образом for тюрьмы был выбран биом: { $biomeName }
-planet-prisoner-round-end-name = заключённый
-planet-prisoner-role-greeting = Você pode fazer isso - você pode fazer isso com o máximo de eficiência possível.
-planet-prison-round-end = Os números foram configurados com { $count }.
-planet-prison-round-end-result =
-    { $count ->
-        [one] Из тюрьмы сбежал лишь один заключённый.
-        [few] Из тюрьмы сбежало { $count } заключённых.
-       *[other] Из тюрьмы сбежали { $count } заключённых.
-    }
+planet-prison-not-enough-players = Não há jogadores suficientes para criar uma prisão planetária, são necessários mais jogadores { $minimumPlayers }.
+planet-prison-select-map = Um mapa foi selecionado aleatoriamente para a prisão: { $stationName }
+planet-prison-select-biome = O bioma escolhido aleatoriamente para a prisão foi: { $biomeName }
+planet-prisoner-round-end-name = prisioneiro
+planet-prisoner-role-greeting = Você é um prisioneiro - sua tarefa é escapar o mais longe possível do complexo prisional.
+planet-prison-round-end = { $count } prisioneiros escaparam da prisão.
+planet-prison-round-end-result = 
+    { $count -> 
+    [one] Из тюрьмы сбежал лишь один заключённый.
+    [few] Из тюрьмы сбежало { $count } заключённых.
+   *[other] Из тюрьмы сбежали { $count } заключённых.
+ }

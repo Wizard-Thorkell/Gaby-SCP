@@ -1,1 +1,1 @@
-admin-shuttle-title = (Re)chamar o ônibus
+admin-shuttle-title = Transporte de chamada/rechamada

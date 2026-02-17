@@ -1,2 +1,2 @@
 ent-MobBatVampire = bastão
-    .desc = Algumas culturas os consideram assustadores, outras são crocantes para os dentes.
+    .desc = Em algumas culturas eles são assustadores, em outras eles rangem os dentes.

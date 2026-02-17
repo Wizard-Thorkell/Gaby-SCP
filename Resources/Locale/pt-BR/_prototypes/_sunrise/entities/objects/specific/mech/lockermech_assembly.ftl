@@ -1,2 +1,2 @@
-ent-LockerMechChassis = Chassi LockerMech
-    .desc = Chassi LockerMech
+ent-LockerMechChassis = caixa de gabinete
+    .desc = Projeto de gabinete inacabado.

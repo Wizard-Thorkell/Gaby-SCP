@@ -1,2 +1,2 @@
 ent-MessengerServer = servidor de mensageiro
-    .desc = Servidor que trata de mensagens entre PDAs na estação.
+    .desc = Um servidor que processa mensagens entre PDAs em uma estação.

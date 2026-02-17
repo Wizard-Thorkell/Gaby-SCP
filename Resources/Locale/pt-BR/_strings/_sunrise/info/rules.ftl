@@ -1,3 +1,3 @@
 # Rules
 
-ui-rules-header-sunrise = Regras do servidor Sunrise
+ui-rules-header-sunrise = Regras do servidor FireStation

@@ -1,19 +1,19 @@
-﻿## Strings for the battery (SMES/substation) menu
+## Strings for the battery (SMES/substation) menu
 
-battery-menu-footer-left = Perigo: alta tensão
+battery-menu-footer-left = Perigo: Alta Tensão
 battery-menu-footer-right = 7.2 REV 6
-battery-menu-out = FORA
-battery-menu-in = EM
-battery-menu-charge-header = Circuito de Carga
-battery-menu-discharge-header = Circuito de Descarga
-battery-menu-storage-header = Células de armazenamento
-battery-menu-passthrough = Passagem
+battery-menu-out = Recuo
+battery-menu-in = Recepção
+battery-menu-charge-header = Circuito de carregamento
+battery-menu-discharge-header = Circuito de descarga
+battery-menu-storage-header = Unidades
+battery-menu-passthrough = Trânsito
 battery-menu-max = Máx.:
 battery-menu-current = Atual:
-battery-menu-stored = Armazenado:
+battery-menu-stored = Cobrar:
 battery-menu-energy = Energia:
-battery-menu-eta-full = HEC (completo):
-battery-menu-eta-empty = HEC (vazio):
+battery-menu-eta-full = Hora de completar:
+battery-menu-eta-empty = Hora de esvaziar:
 battery-menu-eta-value = ~{ $minutes } minutos
 battery-menu-eta-value-max = >{ $minutes } minutos
 battery-menu-eta-value-na = N / D

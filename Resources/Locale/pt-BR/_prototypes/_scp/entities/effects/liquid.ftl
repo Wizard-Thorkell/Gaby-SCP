@@ -1,5 +1,6 @@
-ent-BaseLiquidParticle = partícula líquida
-    .desc = { "" }
+ent-BaseLiquidParticle = gota de líquido
+    .desc = Pequena gota voadora de líquido
+
 ent-LiquidParticle1 = { ent-BaseLiquidParticle }
     .desc = { ent-BaseLiquidParticle.desc }
 ent-LiquidParticle2 = { ent-BaseLiquidParticle }

@@ -1,7 +1,7 @@
 ent-CarvedPumpkin = abóbora esculpida
-    .desc = Uma decoração tradicional assustadora.
-ent-PumpkinLantern = lanterna
-    .desc = Uma abóbora esculpida, emitindo um brilho misterioso.
+    .desc = Decoração assustadora tradicional.
+ent-PumpkinLantern = jack-o'-lanterna
+    .desc = Uma abóbora esculpida que emite um brilho misterioso.
 ent-CarvedPumpkinSmall = { ent-CarvedPumpkin }
     .suffix = Pequeno
     .desc = { ent-CarvedPumpkin.desc }

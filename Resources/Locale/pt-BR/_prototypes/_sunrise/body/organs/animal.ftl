@@ -1,4 +1,4 @@
-ent-OrganManeaterAnimalStomach = estômago maneater
+ent-OrganManeaterAnimalStomach = estômago de comedor
     .desc = { ent-OrganAnimalStomach.desc }
 ent-OrganPrimateHeart = coração
     .desc = { ent-OrganAnimalHeart.desc }
@@ -6,7 +6,7 @@ ent-OrganKoboldHeart = coração
     .desc = { ent-OrganAnimalHeart.desc }
 ent-OrganFelinidHeart = coração
     .desc = { ent-OrganAnimalHeart.desc }
-ent-SentientWildSlimeCore = núcleo de limo
+ent-SentientWildSlimeCore = núcleo de muco
     .desc = { ent-SentientSlimeCore.desc }
 ent-OrganMothroachHeart = coração
     .desc = { ent-OrganAnimalHeart.desc }

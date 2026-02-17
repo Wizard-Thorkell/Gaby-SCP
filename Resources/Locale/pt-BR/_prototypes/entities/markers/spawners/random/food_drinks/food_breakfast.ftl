@@ -1,3 +1,3 @@
 ent-RandomFoodBreakfast = gerador de comida aleatório
-    .suffix = Refeição
+    .suffix = Prato
     .desc = { ent-MarkerBase.desc }

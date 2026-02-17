@@ -1,12 +1,12 @@
-paper-generic-scp-header =
+paper-generic-scp-header = 
     ​
     ​[head=1]SCP[/head]
-    ​[bold]Secure. Contain. Protect.[/bold]
+    ​[bold]Обезопасить. Удержать. Сохранить.[/bold]
     ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-    ​[head=3]SISTEMA DE NOTIFICAÇÃO AUTOMATIZADA[/head]
+    ​[head=3] SISTEMA DE ALARME AUTOMÁTICO[/head]
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-paper-generic-scp-bottom =
+paper-generic-scp-bottom = 
     ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
-    ​[italic]Seal location[/italic]
+    ​[italic]Место для печатей[/italic]
     ​
     ​

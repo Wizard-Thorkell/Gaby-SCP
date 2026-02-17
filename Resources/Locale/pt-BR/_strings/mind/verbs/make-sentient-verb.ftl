@@ -1,1 +1,1 @@
-make-sentient-verb-get-data-text = Torne-se senciente
+make-sentient-verb-get-data-text = Faça com que seja razoável

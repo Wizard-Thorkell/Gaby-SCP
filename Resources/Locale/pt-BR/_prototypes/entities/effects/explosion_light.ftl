@@ -1,2 +1,2 @@
-ent-ExplosionLight = luz de explosão
+ent-ExplosionLight = flash de explosão
     .desc = { "" }

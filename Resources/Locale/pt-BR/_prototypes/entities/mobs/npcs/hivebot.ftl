@@ -1,7 +1,7 @@
-ent-MobHivebot = colméia
-    .desc = Pragas agitadas e mecanizadas.
-ent-MobHivebotRanged = colméia
-    .desc = Pragas agitadas e mecanizadas. Este tem uma arma.
-    .suffix = À distância
-ent-MobHivebotStrong = colméia forte
-    .desc = Pragas agitadas e mecanizadas. Este parece muito mais forte que o normal.
+ent-MobHivebot = barco-colmeia
+    .desc = Pragas mecânicas irritantes.
+ent-MobHivebotRanged = barco-colmeia
+    .desc = Pragas mecânicas irritantes. Ele tem uma arma.
+    .suffix = Combate à distância
+ent-MobHivebotStrong = barco-colmeia forte
+    .desc = Pragas mecânicas irritantes. Ele parece muito mais forte que o normal.

@@ -1,2 +1,2 @@
-ent-KitchenSpike = pico de carne
-    .desc = Um pico para coletar carne de animais.
+ent-KitchenSpike = gancho de carne
+    .desc = Gancho para retirar carne de animais.

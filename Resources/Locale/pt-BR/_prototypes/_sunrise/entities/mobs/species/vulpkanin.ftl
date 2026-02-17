@@ -1,4 +1,4 @@
-ent-BaseMobVulpkanin = Urist McFox
-    .desc = { ent-BaseMobHuman.desc }
+ent-BaseMobVulpkanin = Urist McWulp
+    .desc = { ent-BaseMobSpeciesOrganic.desc }
 ent-MobVulpkaninDummy = Urist McHands
-    .desc = Uma raposa falsa destinada a ser usada na configuração do personagem.
+    .desc = Um modelo Vulpcan projetado para personalização de personagens.

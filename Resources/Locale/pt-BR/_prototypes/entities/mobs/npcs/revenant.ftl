@@ -1,2 +1,2 @@
 ent-MobRevenant = fantasma
-    .desc = Um fantasma assustador.
+    .desc = Fantasma assustador.

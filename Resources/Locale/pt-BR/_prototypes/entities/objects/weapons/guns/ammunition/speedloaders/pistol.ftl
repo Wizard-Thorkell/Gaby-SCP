@@ -1,6 +1,6 @@
-ent-BaseSpeedLoaderPistol = carregador de velocidade (0,35 automático)
+ent-BaseSpeedLoaderPistol = carregador rápido (0,35 automático)
     .desc = { ent-BaseItem.desc }
-ent-SpeedLoaderPistol = carregador de velocidade (0,35 automático)
+ent-SpeedLoaderPistol = carregador rápido (0,35 automático)
     .desc = { ent-BaseSpeedLoaderPistol.desc }
-ent-SpeedLoaderPistolPractice = carregador de velocidade (0,35 prática automática)
+ent-SpeedLoaderPistolPractice = speedloader (0,35 treinamento automático)
     .desc = { ent-BaseSpeedLoaderPistol.desc }

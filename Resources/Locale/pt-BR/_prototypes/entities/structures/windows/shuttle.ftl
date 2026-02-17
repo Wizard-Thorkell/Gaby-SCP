@@ -1,5 +1,5 @@
 ent-ShuttleWindow = janela de transporte
-    .desc = { ent-WindowRCDResistant.desc }
+    .desc = { ent-Window.desc }
 ent-ShuttleWindowDiagonal = { ent-ShuttleWindow }
-    .suffix = diagonal
+    .suffix = Diagonal
     .desc = { ent-ShuttleWindow.desc }

@@ -1,5 +1,5 @@
 ent-ClothingShoesBootsCombatFilled = { ent-ClothingShoesBootsCombat }
-    .suffix = Cheio, Faca de Combate
+    .suffix = Preenchido
     .desc = { ent-ClothingShoesBootsCombat.desc }
 ent-ClothingShoesBootsJackFilled = { ent-ClothingShoesBootsJack }
     .desc = { ent-ClothingShoesBootsJack.desc }

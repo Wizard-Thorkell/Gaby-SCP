@@ -1,4 +1,4 @@
-ent-DionaGibAction = Gibe-se!
-    .desc = Divida-se em 3 ninfas.
+ent-DionaGibAction = Destrua-se!
+    .desc = Dividido em três ninfas.
 ent-DionaReformAction = Reforma
-    .desc = Transforme-se novamente em uma Diona inteira.
+    .desc = Transforme-se em uma diona sólida.

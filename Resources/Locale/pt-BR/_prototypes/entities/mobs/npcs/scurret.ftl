@@ -1,8 +1,8 @@
-ent-MobBaseScurret = escória
+ent-MobBaseScurret = espigão
     .desc = { ent-MobBaseAncestor.desc }
-ent-MobScurret = escória
-    .desc = Comumente conhecidas como Wawa, das zonas úmidas do Planeta Wawa, essas criaturas constituem a maior parte da "força de trabalho leal" da Arnolds's Pizza.
-ent-MobBaseEmotionalSupportScurret = Correto de Apoio Emocional
+ent-MobScurret = espigão
+    .desc = Comumente conhecidos como Wawa, dos pântanos do Planeta Wawa, essas criaturas constituem a maior parte da "força de trabalho leal" da Arnold's Pizzeria.
+ent-MobBaseEmotionalSupportScurret = skerret para apoio emocional
     .desc = { ent-MobBaseScurret.desc }
-ent-MobEmotionalSupportScurret = Correto de Apoio Emocional
-    .desc = Comumente conhecidas como Wawa, das zonas úmidas do Planeta Wawa, essas criaturas constituem a maior parte da "força de trabalho leal" da Arnold's Pizza. Este está aqui como temporário.
+ent-MobEmotionalSupportScurret = skerret para apoio emocional
+    .desc = Comumente conhecidos como Wawa, dos pântanos do Planeta Wawa, essas criaturas constituem a maior parte da "força de trabalho leal" da Arnold's Pizzeria. Este está aqui temporariamente.

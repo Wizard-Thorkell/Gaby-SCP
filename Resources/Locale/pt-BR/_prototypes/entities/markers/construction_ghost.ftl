@@ -1,2 +1,2 @@
-ent-constructionghost = fantasma da construção
+ent-constructionghost = desenho fantasma
     .desc = { "" }

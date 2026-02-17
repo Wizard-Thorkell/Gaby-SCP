@@ -1,3 +1,3 @@
 ent-DrinkMeth = metanfetamina
-    .desc = Apenas um copo inteiro de metanfetamina.
+    .desc = Apenas um copo de metanfetamina.
     .suffix = DEPURAR

@@ -1,7 +1,7 @@
-ent-ReinforcedWindow = janela reforçada
+ent-ReinforcedWindow = janela blindada
     .desc = { ent-Window.desc }
-ent-WindowReinforcedDirectional = janela reforçada direcional
-    .desc = Não manche o vidro ali embaixo.
+ent-WindowReinforcedDirectional = janela blindada direcional
+    .desc = Tenha cuidado para não bagunçar.
 ent-ReinforcedWindowDiagonal = { ent-ReinforcedWindow }
-    .suffix = diagonal
+    .suffix = Diagonal
     .desc = { ent-ReinforcedWindow.desc }

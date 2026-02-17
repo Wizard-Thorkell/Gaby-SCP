@@ -1,2 +1,2 @@
-ent-FolderSpawner = Gerador de pasta aleatória
+ent-FolderSpawner = pasta aleatória spawner
     .desc = { ent-MarkerBase.desc }

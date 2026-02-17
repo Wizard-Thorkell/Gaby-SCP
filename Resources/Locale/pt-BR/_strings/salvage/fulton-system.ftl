@@ -1,7 +1,7 @@
-fulton-folded = Beacon precisa ser desdobrado
-fulton-examine = {$time} segundos até a extração
+fulton-folded = O farol precisa ser implantado
+fulton-examine = { $time } segundos antes da evacuação
 fulton-linked = Farol vinculado
-fulton-not-found = Nenhum farol encontrado
-fulton-invalid = Não posso fulton
-fulton-fultoned = Já fultonado
-fulton-remove = Remover fulton
+fulton-not-found = Farol não encontrado
+fulton-invalid = Incapaz de evacuar por Fulton
+fulton-fultoned = Fulton já está anexado
+fulton-remove = Remover Fulton

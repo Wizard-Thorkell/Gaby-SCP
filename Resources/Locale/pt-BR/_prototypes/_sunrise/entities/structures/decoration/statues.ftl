@@ -1,2 +1,2 @@
-ent-StatueDelta = estátua delta
-    .desc = Uma estátua delta. Grande e forte.
+ent-StatueDelta = Estátua Delta
+    .desc = Estátua Delta. Grande e forte.

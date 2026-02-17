@@ -1,7 +1,7 @@
 ent-BasePortal = portal do espaço azul
-    .desc = Transporta você para um destino vinculado!
+    .desc = Parece uma aventura de 5 minutos!
 ent-PortalRed = { ent-BasePortal }
-    .desc = Este parece mais um portal redspace.
+    .desc = Este é mais como um portal redspace.
 ent-PortalBlue = { ent-BasePortal }
     .desc = { ent-BasePortal.desc }
 ent-PortalArtifact = { ent-BasePortal }

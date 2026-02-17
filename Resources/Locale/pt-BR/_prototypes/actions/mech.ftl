@@ -1,10 +1,10 @@
 ent-BaseMechAction = { ent-BaseAction }
     .desc = { ent-BaseAction.desc }
-ent-ActionMechCycleEquipment = Ciclo
-    .desc = Ciclos do equipamento atualmente selecionado
+ent-ActionMechCycleEquipment = Trocar equipamento
+    .desc = Muda o equipamento selecionado.
 ent-ActionMechOpenUI = Painel de controle
-    .desc = Abre o painel de controle do mech
-ent-ActionMechEject = Ejetar
-    .desc = Ejeta o piloto do mech
-ent-ActionMechLights = Luzes
-    .desc = Acende luzes mecânicas.
+    .desc = Abre o painel de controle mecânico.
+ent-ActionMechEject = Deixar
+    .desc = Desembarca o piloto do mecha.
+ent-ActionMechLights = Luz
+    .desc = Alterna a iluminação de pele.

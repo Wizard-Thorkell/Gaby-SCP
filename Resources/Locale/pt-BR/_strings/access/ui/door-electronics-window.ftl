@@ -1,1 +1,1 @@
-door-electronics-configuration-title = Configurar acesso
+door-electronics-configuration-title = Configurar o acesso

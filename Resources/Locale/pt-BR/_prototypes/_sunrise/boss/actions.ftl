@@ -1,6 +1,6 @@
-ent-ActionHellSpawnRush = CORRER
+ent-ActionHellSpawnRush = Idiota
     .desc = { "" }
-ent-ActionHellSpawnInvincibility = Invencibilidade
+ent-ActionHellSpawnInvincibility = Invulnerabilidade
     .desc = { "" }
 ent-ActionHellSpawnTentacleRight = Tentáculo
     .desc = { "" }

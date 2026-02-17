@@ -1,8 +1,8 @@
 ent-ClothingHeadHatBrownsoft = boné marrom
-    .desc = É um boné de beisebol de cor marrom insípida.
+    .desc = O boné de beisebol é de uma cor marrom pegajosa.
 ent-ClothingHeadHatBrownsoftFlipped = boné marrom
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }
-ent-ClothingHeadHatCyansoft = boné ciano
-    .desc = É um boné de beisebol de cor ciano de mau gosto.
-ent-ClothingHeadHatCyansoftFlipped = boné ciano
+ent-ClothingHeadHatCyansoft = boné azul
+    .desc = O azul é uma cor marrom insípida.
+ent-ClothingHeadHatCyansoftFlipped = boné azul
     .desc = { ent-ClothingHeadHeadHatBaseFlipped.desc }

@@ -1,4 +1,4 @@
-ent-FTLPoint = Ponto FTL
+ent-FTLPoint = Ponto FSS
     .desc = { ent-MarkerBase.desc }
-ent-FTLExclusion = Ponto de exclusão FTL
+ent-FTLExclusion = Zona de exclusão BSS
     .desc = { ent-MarkerBase.desc }

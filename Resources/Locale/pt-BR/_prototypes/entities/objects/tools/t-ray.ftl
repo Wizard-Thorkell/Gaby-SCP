@@ -1,2 +1,2 @@
 ent-trayScanner = scanner de raio t
-    .desc = Um dispositivo de varredura de alta tecnologia que usa radiação Terahertz para detectar infraestrutura no subsolo.
+    .desc = Um dispositivo de varredura de alta tecnologia que usa ondas de rádio terahertz para detectar infraestrutura subterrânea.

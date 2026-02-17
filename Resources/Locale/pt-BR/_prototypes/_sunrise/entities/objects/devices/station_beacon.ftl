@@ -1,3 +1,3 @@
 ent-DefaultStationBeaconBlueShield = { ent-DefaultStationBeacon }
-    .suffix = Escudo Azul
     .desc = { ent-DefaultStationBeacon.desc }
+    .suffix = Oficial Escudo Azul

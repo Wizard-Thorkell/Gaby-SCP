@@ -1,5 +1,5 @@
 ent-EvidenceMarker = marcador de evidência
-    .desc = Um marcador amarelo numerado, útil para identificar evidências na cena do crime.
+    .desc = Um marcador amarelo numerado útil para identificar evidências na cena do crime.
 ent-EvidenceMarkerOne = { ent-EvidenceMarker }
     .desc = { ent-EvidenceMarker.desc }
 ent-EvidenceMarkerTwo = { ent-EvidenceMarker }
@@ -19,4 +19,4 @@ ent-EvidenceMarkerEight = { ent-EvidenceMarker }
 ent-EvidenceMarkerNine = { ent-EvidenceMarker }
     .desc = { ent-EvidenceMarker.desc }
 ent-BoxEvidenceMarkers = caixa de marcador de evidências
-    .desc = Um pacote de marcadores amarelos numerados, úteis para rotular evidências na cena do crime.
+    .desc = Um pacote de marcadores amarelos numerados, úteis para identificar evidências na cena do crime.

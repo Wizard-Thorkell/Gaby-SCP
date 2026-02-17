@@ -1,8 +1,8 @@
 ent-InflatableWallStack = barricada inflável
-    .desc = Uma membrana dobrada que se expande rapidamente em uma grande forma cúbica na ativação.
+    .desc = Uma membrana dobrada que se expande rapidamente em uma grande forma cúbica quando ativada.
     .suffix = Completo
 ent-InflatableDoorStack = porta inflável
-    .desc = Uma membrana dobrada que se expande rapidamente em uma grande forma cúbica na ativação.
+    .desc = Uma membrana dobrada que se expande rapidamente em uma grande forma cúbica quando ativada.
     .suffix = Completo
 ent-InflatableWallStack5 = { ent-InflatableWallStack }
     .suffix = 5

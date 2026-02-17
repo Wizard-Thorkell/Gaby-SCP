@@ -1,12 +1,9 @@
-# Animation emote names
-animations-flip = Virar
-animations-jump = Pular
+animations-flip = Cambalhota
+animations-jump = Quicar
 animations-dance = Dança
-animations-lay = Deitar/Levantar
-animations-fall-on-neck = Cair no pescoço
-
-# Animation emote messages
+animations-lay = Deite-se/Levante-se
+animations-fall-on-neck = Cair no seu pescoço
 animations-msg-flip = dá uma cambalhota
 animations-msg-jump = salta
-animations-msg-dance = danças
+animations-msg-dance = dança
 animations-msg-fall-on-neck = cai no pescoço

@@ -1,2 +1,2 @@
-ent-FreezerElectronics = eletrônica de freezer
-    .desc = Uma placa eletrônica usada em freezers de cozinha.
+ent-FreezerElectronics = Chip de freezer
+    .desc = Microchip usado em freezers de cozinha.

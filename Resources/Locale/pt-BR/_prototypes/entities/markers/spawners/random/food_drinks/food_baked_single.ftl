@@ -1,3 +1,3 @@
-ent-RandomFoodBakedSingle = gerador de comida assada aleatória
-    .suffix = Porção única
+ent-RandomFoodBakedSingle = spawner assados ​​aleatórios
+    .suffix = Uma porção
     .desc = { ent-MarkerBase.desc }

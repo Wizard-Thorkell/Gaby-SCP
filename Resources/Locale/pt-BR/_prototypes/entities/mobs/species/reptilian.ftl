@@ -1,4 +1,5 @@
-ent-BaseMobReptilian = Urisst'Mzhand
+ent-BaseMobReptilian = Urisst'MssHands
     .desc = { ent-BaseMobSpeciesOrganic.desc }
+    .suffix = Unath
 ent-MobReptilianDummy = { ent-BaseSpeciesDummy }
-    .desc = Um reptiliano fictício destinado a ser usado na configuração do personagem.
+    .desc = { ent-BaseSpeciesDummy.desc }

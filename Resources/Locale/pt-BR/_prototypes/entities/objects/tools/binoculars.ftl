@@ -1,2 +1,2 @@
 ent-Binoculars = binóculos
-    .desc = Usado para vigilância de longa distância.
+    .desc = Usado para observação de longa distância.

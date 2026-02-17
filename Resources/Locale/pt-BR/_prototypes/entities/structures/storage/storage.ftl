@@ -1,2 +1,2 @@
 ent-Rack = prateleira
-    .desc = Um rack para guardar coisas.
+    .desc = Rack para guardar coisas.

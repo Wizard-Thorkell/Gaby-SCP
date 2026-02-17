@@ -1,2 +1,2 @@
-ent-DeviceDesynchronizer = dessincronizador
-    .desc = Um dispositivo experimental que pode dessincronizar temporariamente o usuário do espaço-tempo, fazendo-o desaparecer efetivamente enquanto estiver ativo.
+ent-DeviceDesynchronizer = Dessincronizador de Matéria
+    .desc = Um dispositivo experimental capaz de dessincronizar temporariamente o usuário com o espaço-tempo, efetivamente fazendo com que ele desapareça enquanto estiver ativo.

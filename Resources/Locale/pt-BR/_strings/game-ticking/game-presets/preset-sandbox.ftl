@@ -1,2 +1,2 @@
 sandbox-title = Caixa de areia
-sandbox-description = Sem estresse, construa algo!
+sandbox-description = Sem estresse, apenas sua criatividade!

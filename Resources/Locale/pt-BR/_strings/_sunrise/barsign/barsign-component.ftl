@@ -1,14 +1,14 @@
 ## Alcoholic
 
-barsign-prototype-name-alcoholic = Eles vão derramar e pronto
-barsign-prototype-description-alcoholic = Despeje e pronto. São tempos difíceis....
+barsign-prototype-name-alcoholic = Eles vão servir, ponto final.
+barsign-prototype-description-alcoholic = Despeje e pronto. Tempos difíceis chegaram...
 
 ## RNDmoment
 
-barsign-prototype-name-RNDmoment = Momento RND
-barsign-prototype-description-RNDmoment = A RND conseguirá desta vez?
+barsign-prototype-name-RNDmoment = Situação RND
+barsign-prototype-description-RNDmoment = A RND aguentará desta vez?
 
 ## Aliensjaws
 
-barsign-prototype-name-aliensjaws = Mandíbulas do Alienígena
-barsign-prototype-description-aliensjaws = Prepare ambas as mandíbulas para algumas bebidas ácidas!
+barsign-prototype-name-aliensjaws = A boca do alienígena
+barsign-prototype-description-aliensjaws = Prepare ambas as mandíbulas para uma degustação ácida!

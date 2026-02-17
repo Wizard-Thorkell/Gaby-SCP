@@ -1,5 +1,5 @@
 ent-LockerSalvageSpecialistFilledHardsuit = { ent-LockerSalvageSpecialist }
-    .suffix = Cheio, Hardsuit
+    .suffix = Cheio, traje espacial
     .desc = { ent-LockerSalvageSpecialist.desc }
 ent-LockerSalvageSpecialistFilled = { ent-LockerSalvageSpecialist }
     .suffix = Preenchido

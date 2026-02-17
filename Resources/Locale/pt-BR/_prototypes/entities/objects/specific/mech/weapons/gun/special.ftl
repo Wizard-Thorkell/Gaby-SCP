@@ -1,6 +1,6 @@
 ent-WeaponMechSpecialMousetrapMortar = argamassa ratoeira
     .desc = Lançador de ratoeira montado.
-    .suffix = Arma Mech, Arma, Especial, Morteiro
+    .suffix = Arma mecânica, de longo alcance, especial, morteiro
 ent-WeaponMechSpecialBananaMortar = argamassa de banana
-    .desc = Lançador de casca de banana montado.
-    .suffix = Arma Mech, Arma, Especial, Morteiro
+    .desc = Lançador de casca de banana acoplável.
+    .suffix = Arma mecânica, de longo alcance, especial, morteiro

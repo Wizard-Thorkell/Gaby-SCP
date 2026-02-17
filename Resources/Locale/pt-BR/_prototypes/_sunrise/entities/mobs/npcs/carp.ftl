@@ -1,3 +1,3 @@
 ent-MobSharkGhost = { ent-MobShark }
-    .suffix = Papel fantasma
+    .suffix = O papel do fantasma
     .desc = { ent-MobShark.desc }

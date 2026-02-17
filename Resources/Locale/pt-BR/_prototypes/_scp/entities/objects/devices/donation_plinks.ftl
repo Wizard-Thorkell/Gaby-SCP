@@ -1,5 +1,5 @@
 ent-FireStationUplink20 = mala com pertences pessoais
-    .desc = Pasta com pertences pessoais do funcionário. Protegido por senha. Eu me pergunto o que essa mala contém?
+    .desc = Mala com pertences pessoais de funcionário. Protegido por senha. Eu me pergunto o que ele guarda dentro de si?
     .suffix = 20
 ent-FireStationUplink40 = { ent-FireStationUplink20 }
     .desc = { ent-FireStationUplink20.desc }

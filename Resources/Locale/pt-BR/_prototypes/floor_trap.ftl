@@ -1,8 +1,8 @@
 ent-CollideFloorTrap = { "" }
     .desc = { "" }
-ent-CollideFloorTrapSpawn = desova de armadilha de chão
+ent-CollideFloorTrapSpawn = local de desova da armadilha de chão
     .desc = { ent-CollideFloorTrap.desc }
-ent-FloorTrapExplosion = armadilha de explosão
+ent-FloorTrapExplosion = armadilha de chão explosiva
     .desc = { ent-CollideFloorTrap.desc }
 ent-FloorTrapEMP = Armadilha de piso EMP
     .desc = { ent-CollideFloorTrap.desc }

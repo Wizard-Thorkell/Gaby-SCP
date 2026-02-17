@@ -1,6 +1,6 @@
 ent-BaseTabletopChemicalMachine = { ent-BaseMachinePowered }
     .desc = { ent-BaseMachinePowered.desc }
-ent-MachineElectrolysisUnit = unidade de eletrólise
-    .desc = O que há de mais moderno em tecnologia de eletrocussão medicinal.
-ent-MachineCentrifuge = centrífuga de mesa
-    .desc = Vai dando voltas e mais voltas...
+ent-MachineElectrolysisUnit = planta de eletrólise
+    .desc = Uma inovação tecnológica na área de choques elétricos médicos.
+ent-MachineCentrifuge = centrífuga de bancada
+    .desc = Carrossel, carrossel...

@@ -1,9 +1,9 @@
 ent-ClothingHeadsetAltMTF = fone de ouvido
-    .desc = Um dispositivo de comunicação compacto com canal criptografado. Garante uma transmissão de dados estável em condições difíceis.
+    .desc = Dispositivo de comunicação compacto com canal de comunicação criptografado. Fornece transmissão de dados estável em condições difíceis.
     .suffix = FTM
 ent-ClothingHeadsetAltMTFRRH = fone de ouvido
-    .desc = Um dispositivo de comunicação compacto com canal criptografado. Possui módulos adicionais cuja origem não está especificada na documentação.
+    .desc = Dispositivo de comunicação compacto com canal de comunicação criptografado. Possui módulos adicionais cuja origem não está indicada na documentação.
     .suffix = FTM
 ent-ClothingHeadsetAltMTFLLH = fone de ouvido
-    .desc = Um dispositivo de comunicação compacto com canal criptografado. A caixa tem um desenho reservado, mas a construção inclui elementos que indicam o estatuto especial do utilizador.
+    .desc = Dispositivo de comunicação compacto com canal de comunicação criptografado. O case é decorado com moderação, mas o design contém elementos visíveis que indicam o status especial do usuário.
     .suffix = FTM

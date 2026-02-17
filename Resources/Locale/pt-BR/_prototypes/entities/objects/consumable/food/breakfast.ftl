@@ -1,6 +1,6 @@
 ent-FoodBreakfastBase = { ent-FoodInjectableBase }
-    .desc = Um café da manhã completo, levante-se e brilhe!
+    .desc = Café da manhã completo, acorde e brilhe!
 ent-FoodBreakfastAmerican = café da manhã americano completo
-    .desc = Um prato enorme de proteínas e carboidratos, com maior probabilidade de colocá-lo de volta na cama do que de tirá-lo dela. Oh, que inferno novo é esse?
+    .desc = Um enorme prato de proteínas e carboidratos que tem mais probabilidade de colocá-lo de volta na cama do que ajudá-lo a se levantar. Oh, que inferno novo é esse?
 ent-FoodBreakfastEnglish = café da manhã inglês completo
-    .desc = Um prato enorme de proteínas e carboidratos, com maior probabilidade de colocá-lo de volta na cama do que de tirá-lo dela. Não mencione a guerra!
+    .desc = Um enorme prato de proteínas e carboidratos que tem mais probabilidade de colocá-lo de volta na cama do que ajudá-lo a se levantar. Só não mencione a guerra!

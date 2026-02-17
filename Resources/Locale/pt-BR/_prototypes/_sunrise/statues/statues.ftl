@@ -1,10 +1,10 @@
-ent-StatueFurukai = estátua furukai
+ent-StatueFurukai = estátua de furukai
     .desc = { ent-BaseStructure.desc }
-ent-StatueDude = cara de estátua
+ent-StatueDude = Estátua cara
     .desc = { ent-BaseStructure.desc }
-ent-StatueFrank = estátua franca
+ent-StatueFrank = Estátua de Frank
     .desc = { ent-BaseStructure.desc }
-ent-StatueMooniverse = estátua mooniverso
+ent-StatueMooniverse = Estátua do Luniverso
     .desc = { ent-BaseStructure.desc }
-ent-StatueRib = costela de estátua
+ent-StatueRib = Estátua de Riba
     .desc = { ent-BaseStructure.desc }

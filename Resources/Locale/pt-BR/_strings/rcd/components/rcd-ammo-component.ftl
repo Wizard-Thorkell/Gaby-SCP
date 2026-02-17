@@ -1,3 +1,8 @@
-rcd-ammo-component-on-examine = Ele contém cobranças de {$charges}.
-rcd-ammo-component-after-interact-full = O RCD está cheio!
-rcd-ammo-component-after-interact-refilled = Você recarrega o RCD.
+rcd-ammo-component-on-examine = 
+    Содержит { $charges } { $charges -> 
+    [one] заряд
+    [few] заряда
+   *[other] зарядов
+ }.
+rcd-ammo-component-after-interact-full = A RSU está cheia!
+rcd-ammo-component-after-interact-refilled = Você reabastece o RSU.

@@ -1,8 +1,8 @@
 ent-FoodBagelBase = { ent-FoodInjectableBase }
-    .desc = Um delicioso bagel.
+    .desc = Bagel delicioso.
 ent-FoodBagel = bagel
     .desc = { ent-FoodBagelBase.desc }
-ent-FoodBagelPoppy = bagel de semente de papoula
-    .desc = Um delicioso bagel coberto com sementes de papoula com infusão de bicaridina.
+ent-FoodBagelPoppy = bagel com sementes de papoula
+    .desc = Um delicioso bagel com sementes de papoula contendo bicaridina.
 ent-FoodBagelCotton = bagel de algodão
-    .desc = Um delicioso bagel feito com massa de algodão.
+    .desc = Delicioso bagel feito com massa de algodão.

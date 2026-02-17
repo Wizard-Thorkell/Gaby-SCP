@@ -1,5 +1,4 @@
-grave-start-digging-others = {CAPITALIZE($user)} começa a cavar {THE($grave)} com {THE($tool)}.
-grave-start-digging-user = Você começa a cavar {THE($grave)} com {THE($tool)}.
-grave-start-digging-user-trapped = Você começa a abrir caminho para sair de {THE($grave)}!
-
-grave-digging-requires-tool = Você precisa de uma ferramenta para cavar esse {$grave}!
+grave-start-digging-others = { CAPITALIZE($user) } começa a cavar { $grave } com a ajuda de { $tool }.
+grave-start-digging-user = Você começa a cavar { $grave } com { $tool }.
+grave-start-digging-user-trapped = Você está começando a sair de { $grave }!
+grave-digging-requires-tool = Para desenterrar { $grave } você precisa de uma ferramenta!

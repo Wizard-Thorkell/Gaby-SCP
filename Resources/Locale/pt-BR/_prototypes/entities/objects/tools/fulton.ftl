@@ -1,10 +1,10 @@
-ent-FultonBeacon = farol fulton
-    .desc = Farol para receber extrações de fulton.
+ent-FultonBeacon = Farol de Fulton
+    .desc = Farol para receber coisas evacuadas pelos Fultons.
 ent-Fulton = Fulton
-    .desc = Usado para extrair contêineres, itens ou recrutar pessoas à força para sua base de operações.
+    .desc = Usado para evacuar contêineres, itens ou recrutar pessoas à força para sua base de operações.
     .suffix = Completo
 ent-Fulton1 = Fulton
     .suffix = Um
     .desc = { ent-Fulton.desc }
-ent-FultonEffect = efeito fulton
+ent-FultonEffect = Efeito Fulton
     .desc = { "" }

@@ -1,6 +1,6 @@
-ent-ActionToggleCyberLimb = Alternar membro
-    .desc = Alternar membro.
-ent-ActionToggleCyberHandLeft = Alternar mão.
-    .desc = Alternar a mão esquerda
-ent-ActionToggleCyberHandRight = Alternar mão.
-    .desc = Alternar a mão direita
+ent-ActionToggleCyberLimb = Trocar membro
+    .desc = Trocar membro
+ent-ActionToggleCyberHandLeft = Trocar de mão
+    .desc = Mudar a mão esquerda
+ent-ActionToggleCyberHandRight = Trocar de mão
+    .desc = Mude a mão direita

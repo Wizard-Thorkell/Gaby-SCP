@@ -1,5 +1,5 @@
-secret-title = Segredo
-secret-description = É um segredo para todos. As ameaças que você encontra são aleatórias.
+secret-title = DADOS EXCLUÍDOS
+secret-description = O nível de perigo apresentado na rodada é classificado. Informações detalhadas serão enviadas ao Diretor do Complexo.
 
-dynamic-title = Dinâmico
-dynamic-description = Ninguém sabe o que está por vir. Você pode encontrar inúmeras ameaças.
+dynamic-title = Palestrante
+dynamic-description = Ninguém sabe o que está por vir. Você pode enfrentar inúmeras ameaças.

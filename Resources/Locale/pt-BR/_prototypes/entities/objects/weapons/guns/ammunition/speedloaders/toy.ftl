@@ -1,4 +1,4 @@
-ent-BaseSpeedLoaderCap = carregador de arma de boné
+ent-BaseSpeedLoaderCap = carregador de pistões
     .desc = { ent-BaseItem.desc }
-ent-SpeedLoaderCap = carregador de arma de boné
+ent-SpeedLoaderCap = carregador de pistões
     .desc = { ent-BaseSpeedLoaderCap.desc }

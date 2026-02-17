@@ -1,2 +1,2 @@
-ent-StatusEffectFall = cair
+ent-StatusEffectFall = Cair
     .desc = { ent-MobStatusEffectBase.desc }

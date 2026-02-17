@@ -1,7 +1,7 @@
-marking-VoxFacialHairBeard = Barba Vox (Pinhas)
-marking-VoxFacialHairColonel = Bigode Vox (Coronel)
-marking-VoxFacialHairFu = Bigode Vox (Quill Fu)
-marking-VoxFacialHairNeck = Barba Vox (Pinhas de Pescoço)
-marking-VoxFacialHairMane = Barba Vox (Juba)
-marking-VoxFacialHairManeSmall = Barba Vox (juba pequena)
-marking-VoxFacialHairTufts = Costeletas Vox (tufos)
+marking-VoxFacialHairColonel = Vox, Coronel
+marking-VoxFacialHairFu = Vox, Penas Fu
+marking-VoxFacialHairNeck = Vox, penas do pescoço
+marking-VoxFacialHairBeard = Vox, Barba-pena
+marking-VoxFacialHairMane = Vox, Barba (Juba)
+marking-VoxFacialHairManeSmall = Vox, barba (juba pequena)
+marking-VoxFacialHairTufts = Vox, costeletas (tufos)

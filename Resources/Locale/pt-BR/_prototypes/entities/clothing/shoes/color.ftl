@@ -1,11 +1,11 @@
 ent-ClothingShoesColorBlack = sapatos pretos
     .desc = Sapatos pretos elegantes.
 ent-ClothingShoesColorWhite = sapatos brancos
-    .desc = Não os tire na festa de Natal do seu escritório.
+    .desc = Não os tire na festa de Natal do escritório.
 ent-ClothingShoesColorBlue = sapatos azuis
     .desc = Sapatos azuis elegantes.
 ent-ClothingShoesColorBrown = sapatos marrons
-    .desc = Um par de sapatos marrons.
+    .desc = Sapatos marrons elegantes.
 ent-ClothingShoesColorGreen = sapatos verdes
     .desc = Sapatos verdes elegantes.
 ent-ClothingShoesColorOrange = sapatos laranja

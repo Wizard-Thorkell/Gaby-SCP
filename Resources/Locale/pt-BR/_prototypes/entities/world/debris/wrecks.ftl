@@ -1,8 +1,8 @@
-ent-BaseScrapDebris = restos de sucata
+ent-BaseScrapDebris = Pedaço de Detritos
     .desc = { ent-BaseDebris.desc }
-ent-ScrapDebrisSmall = sucata detritos pequenos
+ent-ScrapDebrisSmall = Pequeno pedaço de lixo
     .desc = { ent-BaseScrapDebris.desc }
-ent-ScrapDebrisMedium = meio de detritos de sucata
+ent-ScrapDebrisMedium = Pedaço médio de detritos
     .desc = { ent-BaseScrapDebris.desc }
-ent-ScrapDebrisLarge = sucata detritos grandes
+ent-ScrapDebrisLarge = Grande pedaço de lixo
     .desc = { ent-BaseScrapDebris.desc }

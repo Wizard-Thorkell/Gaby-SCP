@@ -1,5 +1,5 @@
-ent-PenExploding = caneta
-    .desc = Uma caneta de tinta escura.
-    .suffix = Explodindo
-ent-PenExplodingBox = caixa de caneta explodindo
-    .desc = Uma pequena caixa contendo uma caneta explosiva. A embalagem se desintegra quando aberta, não deixando nenhuma evidência.
+ent-PenExploding = { ent-Pen }
+    .desc = { ent-Pen.desc }
+    .suffix = Explosivos
+ent-PenExplodingBox = Estojo de caneta explodindo
+    .desc = Uma pequena caixa contendo uma caneta explosiva. Depois de aberta, a embalagem se desintegra, sem deixar vestígios.

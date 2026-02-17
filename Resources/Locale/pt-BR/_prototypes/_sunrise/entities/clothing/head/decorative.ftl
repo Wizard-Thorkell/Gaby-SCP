@@ -1,2 +1,2 @@
-ent-ClothingHeadKigurumiPanda = capuz de panda kigurumi
-    .desc = Esse traje dá vontade de comer bambu.
+ent-ClothingHeadKigurumiPanda = capuz kigurumi panda
+    .desc = Essa fantasia dá vontade de comer bambu.

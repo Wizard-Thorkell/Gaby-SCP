@@ -1,5 +1,5 @@
 ent-KitchenReagentGrinder = moedor de reagentes
-    .desc = Do BlenderTech. Será que vai se misturar? Vamos descobrir!
-    .suffix = moedor/espremedor
+    .desc = Do BlenderTech. Isso funcionará? Vamos descobrir!
+    .suffix = Picador/espremedor
 ent-ReagentGrinderIndustrial = moedor de reagente industrial
-    .desc = Um moedor de reagentes industriais.
+    .desc = Moedor de reagentes industriais.

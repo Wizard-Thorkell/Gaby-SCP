@@ -1,4 +1,4 @@
 ent-MobBatRemilia = Remília
-    .desc = O capelão é familiar. Gosta de frutas.
+    .desc = O padre é familiar. Adora frutas.
 ent-MobCorgiCerberus = Cérbero
-    .desc = Este filhote não é saudável.
+    .desc = Este cachorrinho não é nada fofo.

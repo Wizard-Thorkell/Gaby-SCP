@@ -1,2 +1,2 @@
 ent-ChemMaster = ChemMaster 4000
-    .desc = Um manipulador químico de nível industrial com produção de comprimidos e frascos incluída.
+    .desc = Manipulador químico de nível industrial com capacidade de produzir comprimidos e frascos.

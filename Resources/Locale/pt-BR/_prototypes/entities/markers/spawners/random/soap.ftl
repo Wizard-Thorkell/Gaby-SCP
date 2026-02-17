@@ -1,2 +1,2 @@
-ent-RandomSoap = gerador de sabão aleatório
+ent-RandomSoap = sabonete aleatório spawner
     .desc = { ent-MarkerBase.desc }

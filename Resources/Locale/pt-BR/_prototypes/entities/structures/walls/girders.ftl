@@ -1,6 +1,6 @@
-ent-Girder = viga
-    .desc = Um grande conjunto estrutural feito de metal ; It requires a layer of metal before it can be considered a wall.
-ent-ReinforcedGirder = viga reforçada
-    .desc = Um grande conjunto estrutural feito de metal e plasteel ; It requires a layer of plasteel before it can be considered a reinforced wall.
-ent-ClockworkGirder = equipamento de parede
-    .desc = Uma engrenagem grande com suportes de montagem para revestimento adicional ; This could be made into a wall with more brass plating.
+ent-Girder = quadro
+    .desc = Estrutura metálica grande ; Его необходимо покрыть листами металла, чтобы он считался стеной.
+ent-ReinforcedGirder = quadro reforçado
+    .desc = Estrutura grande feita de metal e plástico ; Его необходимо покрыть листами пластали, чтобы он считался укреплённой стеной.
+ent-ClockworkGirder = quadro de engrenagem
+    .desc = Equipamento enorme com suportes para cobertura extra ; при помощи листов латуни её можно превратить в стену.

@@ -1,2 +1,2 @@
-ent-FatExtractor = extrator lipídico
-    .desc = Extrai com segurança e eficiência o excesso de gordura de um sujeito.
+ent-FatExtractor = extrator de gordura
+    .desc = Remove com segurança e eficácia o excesso de gordura do corpo.

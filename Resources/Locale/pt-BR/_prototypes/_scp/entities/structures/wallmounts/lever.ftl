@@ -1,2 +1,2 @@
-ent-PowerLever = Alavanca de potência
-    .desc = Usado para ligar ou desligar manualmente a energia em um circuito elétrico.
+ent-PowerLever = grande alavanca
+    .desc = Grande alavanca de construção ultrapassada. Você nunca o notou aqui antes. Finalidade desconhecida

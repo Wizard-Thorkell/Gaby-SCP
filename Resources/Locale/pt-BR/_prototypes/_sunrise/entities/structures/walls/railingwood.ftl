@@ -1,5 +1,5 @@
-ent-BaseRailingWood = grade de madeira
-    .desc = Corrimão básico de madeira destinado a proteger idiotas como você de cair. Este tem um pouco de moda.
+ent-BaseRailingWood = cerca de madeira
+    .desc = Uma cerca de madeira simples projetada para proteger idiotas como você de cair. Tem um pouco de estilo.
 ent-RailingWood = { ent-BaseRailingWood }
     .desc = { ent-BaseRailingWood.desc }
 ent-RailingCornerWood = { ent-BaseRailingWood }

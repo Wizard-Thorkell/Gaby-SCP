@@ -1,8 +1,7 @@
-construction-condition-machine-container-empty = Remova as peças da estrutura usando um [color=cyan]Crowbar[/color].
-
+construction-condition-machine-container-empty = Remova os componentes da estrutura usando a [color=cyan]barra de alavanca[/color].
 # MachineFrameComplete
-construction-condition-machine-frame-requirement-label = Requer:
-construction-condition-machine-frame-insert-circuit-board-message = Insira [color=cyan]qualquer placa de circuito da máquina[/color].
-construction-condition-machine-frame-required-element-entry = [color=yellow]{$amount}x[/color] [color=green]{$elementName}[/color]
-construction-step-condition-machine-frame-board = Você precisará inserir uma placa de máquina.
-construction-step-condition-machine-frame-parts = Depois, insira todas as peças necessárias.
+construction-condition-machine-frame-requirement-label = Requisitos:
+construction-condition-machine-frame-insert-circuit-board-message = Insira [color=cyan]qualquer placa para máquina[/color].
+construction-condition-machine-frame-required-element-entry = [color=yellow]{ $amount }unidade[/color] [color=green]{ $elementName }[/color]
+construction-step-condition-machine-frame-board = Você precisa inserir a placa da máquina.
+construction-step-condition-machine-frame-parts = Depois disso, insira todos os componentes necessários.

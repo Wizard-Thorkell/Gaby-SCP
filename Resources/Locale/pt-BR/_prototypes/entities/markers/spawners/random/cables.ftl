@@ -1,9 +1,9 @@
-ent-RandomCableHVSpawner = Gerador de cabo de alimentação HV
+ent-RandomCableHVSpawner = gerador de cabo de alta tensão
     .suffix = 50%
     .desc = { ent-MarkerBase.desc }
-ent-RandomCableMVSpawner = Gerador de cabo de alimentação MT
+ent-RandomCableMVSpawner = gerador de cabo de média tensão
     .suffix = 50%
     .desc = { ent-MarkerBase.desc }
-ent-RandomCableApcExtensionSpawner = Gerador de cabo de alimentação LV
+ent-RandomCableApcExtensionSpawner = gerador de cabo de baixa tensão
     .suffix = 50%
     .desc = { ent-MarkerBase.desc }

@@ -1,16 +1,14 @@
-﻿## Strings for the "grant_connect_bypass" command.
+## Строки для команды "grant_connect_bypass".
 
-cmd-grant_connect_bypass-desc = Permitir temporariamente que um usuário ignore as verificações regulares de conexão.
-cmd-grant_connect_bypass-help = Uso: grant_connect_bypass <user> [duration minutes]
-    Temporarily grants a user the ability to bypass regular connections restrictions.
-    The bypass only applies to this game server and will expire after (by default) 1 hour.
-    They will be able to join regardless of whitelist, panic bunker, or player cap.
-
-cmd-grant_connect_bypass-arg-user = <user>
-cmd-grant_connect_bypass-arg-duration = [duration minutes]
-
+cmd-grant_connect_bypass-desc = Permitir temporariamente que o usuário ignore as verificações normais de conexão.
+cmd-grant_connect_bypass-help = 
+    Использование: grant_connect_bypass <пользователь> [длительность в минутах]
+    Временно предоставляет пользователю возможность обойти обычные ограничения на подключение.
+    Обход применяется только к этому игровому серверу и истекает через (по умолчанию) 1 час.
+    Пользователь сможет подключиться, независимо от белого списка, паники или ограничения на количество игроков.
+cmd-grant_connect_bypass-arg-user = <пользователь>
+cmd-grant_connect_bypass-arg-duration = [длительность в минутах]
 cmd-grant_connect_bypass-invalid-args = Esperado 1 ou 2 argumentos
-cmd-grant_connect_bypass-unknown-user = Não foi possível encontrar o usuário '{$user}'
-cmd-grant_connect_bypass-invalid-duration = Duração inválida '{$duration}'
-
-cmd-grant_connect_bypass-success = Bypass adicionado com sucesso para o usuário '{$user}'
+cmd-grant_connect_bypass-unknown-user = Não foi possível encontrar o usuário '{ $user }'
+cmd-grant_connect_bypass-invalid-duration = Duração inválida '{ $duration }'
+cmd-grant_connect_bypass-success = Permissão de desvio adicionada com sucesso para o usuário '{ $user }'

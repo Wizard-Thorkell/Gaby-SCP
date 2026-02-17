@@ -1,4 +1,4 @@
 ent-BackgammonBoard = tabuleiro de gamão
-    .desc = Antigo jogo de dados e peças.
+    .desc = Um antigo jogo de dados e fichas.
 ent-BackgammonBoardTabletop = gamão
     .desc = { ent-BaseBoardTabletop.desc }

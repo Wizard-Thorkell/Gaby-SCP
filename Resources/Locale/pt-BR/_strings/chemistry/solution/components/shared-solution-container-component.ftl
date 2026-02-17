@@ -1,37 +1,37 @@
-shared-solution-container-component-on-examine-main-text = Ele contém {INDEFINITE($desc)} [color={$color}]{$desc}[/color] { $chemCount ->
-    [1] chemical.
-   *[other] mixture of chemicals.
-    }
+shared-solution-container-component-on-examine-main-text = Ele contém [color={ $color }]{ $desc }[/color] { $chemCount -> 
+    [1] вещество.
+   *[other] смесь веществ.
+ }
 
-examinable-solution-has-recognizable-chemicals = Você pode reconhecer {$recognizedString} na solução.
-examinable-solution-recognized = [color={$color}]{$chemical}[/color]
+examinable-solution-has-recognizable-chemicals = Você reconhecerá a composição: { $recognizedString }.
+examinable-solution-recognized = [color={ $color }]{ $chemical }[/color]
 
-examinable-solution-on-examine-volume = A solução contida é {$fillLevel ->
-    [exact] holding [color=branco]{$current}/{$max}u[/color].
+examinable-solution-on-examine-volume = Contêiner { $fillLevel -> 
+    [exact] содержит [color=branco]{ $current }/{ $max }unidade[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
-}
+ }
 
-examinable-solution-on-examine-volume-no-max = A solução contida é {$fillLevel ->
-    [exact] holding [color=branco]{$current}u[/color].
+examinable-solution-on-examine-volume-no-max = No contêiner { $fillLevel -> 
+    [exact] содержится [color=branco]{ $current }unidade[/color].
    *[other] [bold]{ -solution-vague-fill-level(fillLevel: $fillLevel) }[/bold].
-}
+ }
 
-examinable-solution-on-examine-volume-puddle = A poça é { $fillLevel ->
-    [exact] [color=branco]{$current}u[/color].
-    [full] huge and overflowing!
-    [mostlyfull] huge and overflowing!
-    [halffull] deep and flowing.
-    [halfempty] very deep.
-   *[mostlyempty] pooling together.
-    [empty] forming multiple small pools.
-}
+examinable-solution-on-examine-volume-puddle = Poça { $fillLevel -> 
+    [exact] [color=branco]{ $current }u[/color].
+    [full] огромная и переливается!
+    [mostlyfull] огромная и переливается!
+    [halffull] глубокая и растекается.
+    [halfempty] очень глубокая.
+   *[mostlyempty] собирается в пятна.
+    [empty] распалась на мелкие капли.
+ }
 
--solution-vague-fill-level =
-    { $fillLevel ->
-        [full] [color=branco]Completo[/color]
-        [mostlyfull] [color=#DFDFDF]Mostly Full[/color]
-        [halffull] [color=#C8C8C8]Half Full[/color]
-        [halfempty] [color=#C8C8C8]Half Empty[/color]
-        [mostlyempty] [color=#A4A4A4]Mostly Empty[/color]
-       *[empty] [color=cinza]Vazio[/color]
-    }
+-solution-vague-fill-level = 
+    { $fillLevel -> 
+    [full] [color=branco]completo[/color]
+    [mostlyfull] [color=#DFDFDF]почти полный[/color]
+    [halffull] [color=#C8C8C8]наполовину полный[/color]
+    [halfempty] [color=#C8C8C8]наполовину пустой[/color]
+    [mostlyempty] [color=#A4A4A4]почти пустой[/color]
+   *[empty] [color=cinza]vazio[/color]
+ } 

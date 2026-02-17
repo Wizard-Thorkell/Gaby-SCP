@@ -1,3 +1,3 @@
-ent-RandomFoodBakedWhole = gerador de comida assada aleatória
-    .suffix = Todo
+ent-RandomFoodBakedWhole = spawner assados ​​aleatórios
+    .suffix = Inteiramente
     .desc = { ent-MarkerBase.desc }

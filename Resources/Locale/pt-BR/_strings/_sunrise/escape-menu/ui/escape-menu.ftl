@@ -1,3 +1,3 @@
-ui-escape-donate = Donat
+ui-escape-donate = Doe
 ui-escape-forum = Fórum
-ui-escape-replays = Respostas
+ui-escape-replays = Repetições

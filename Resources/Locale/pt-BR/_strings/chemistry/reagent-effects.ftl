@@ -1,3 +1,3 @@
-effect-sleepy = Você se sente um pouco sonolento.
+effect-sleepy = Você sente sono.
 
-butterbeer-effect-taste = em você сливочно e как волшебство
+butterbeer-effect-taste = tem um sabor cremoso e mágico

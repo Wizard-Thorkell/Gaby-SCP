@@ -1,2 +1,2 @@
-ent-GrilleSpawner = Gerador de grade aleatório
+ent-GrilleSpawner = Gerador de treliça aleatório
     .desc = { ent-MarkerBase.desc }

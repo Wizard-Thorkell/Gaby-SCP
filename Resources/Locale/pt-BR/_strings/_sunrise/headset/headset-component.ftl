@@ -1,5 +1,5 @@
-chat-radio-law = Юридический
-chat-radio-blue-shield = Синий Щит
-chat-radio-ussp = СССП
-chat-radio-ussp-sec = СССП Офицеры
-chat-radio-ussp-com = Comando СССП
+chat-radio-law = Jurídico
+chat-radio-blue-shield = Escudo Azul
+chat-radio-ussp = SSSP
+chat-radio-ussp-sec = Oficiais do SSSP
+chat-radio-ussp-com = Comando SSSP

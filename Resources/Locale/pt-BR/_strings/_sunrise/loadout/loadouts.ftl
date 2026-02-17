@@ -1,62 +1,74 @@
 # Centcomm
-CentCommOperator-loadout = Operador de operação Centkom
+CentCommOperator-loadout = Equipamento do operador Centcom
 # Command
-Captain-loadout = Capitão Снаряжение
-HeadOfPersonnel-loadout = Снаряжение главы персонала
-ChiefEngineer-loadout = Aprenda a usar o inventor estrela
-ChiefMedicalOfficer-loadout = Снаряжение главного врача
-HeadOfSecurity-loadout = Снаряжение главы сб
-Quartermaster-loadout = Снаряжение квартирмейстра
-ResearchDirector-loadout = Снаряжение научного руководителя
-NanoTrasenRepresentative-loadout = Como usar NanoTrasen
+Captain-loadout = Equipamento do Capitão
+HeadOfPersonnel-loadout = Equipamento do Chefe de Pessoal
+ChiefEngineer-loadout = Engenheiro Sênior de Equipamentos
+ChiefMedicalOfficer-loadout = Equipamento do médico-chefe
+HeadOfSecurity-loadout = Equipamento do capítulo Sat
+Quartermaster-loadout = Equipamento Intendente
+ResearchDirector-loadout = Equipamento do supervisor científico
+NanoTrasenRepresentative-loadout = Equipamento representativo NanoTrasen
+ComMaid-loadout = Roupa de empregada de comando
 # Law
-IAA-loadout = Agente de segurança de valor inestimável
-Lawyer-loadout = Снаряжение юриста
-Magistrate-loadout = Magistrado
-OfficerNTR-loadout = Снаряжение ИСН
+IAA-loadout = Equipamento de agente de assuntos internos
+Lawyer-loadout = Equipamento de advogado
+Magistrate-loadout = Equipamento do magistrado
+OfficerNTR-loadout = Equipamento ISN
 # Blueshield
-Blueshield-loadout = Снаряжение офицера «Синий щит»
+Blueshield-loadout = Equipamento de Oficial Escudo Azul
 # Security
-Brigmedic-loadout = Снаряжение бригмедика
-Detective-loadout = Detecção de segurança
-SecurityCadet-loadout = Снаряжение кадета СБ
-SecurityOfficer-loadout = Снаряжение офицера СБ
-SeniorOfficer-loadout = Instrutor de Condução СБ
-Warden-loadout = Снаряжение смотрителя
+Brigmedic-loadout = Equipamentos Brigmedic
+Detective-loadout = Equipamento de detetive
+SecurityCadet-loadout = Equipamento de cadete de segurança
+SecurityOfficer-loadout = Equipamento do oficial de segurança
+SeniorOfficer-loadout = Equipamento de instrutor de segurança
+Warden-loadout = Equipamento do Diretor
 # Engineering
-AtmosphericTechnician-loadout = Técnica de configuração atmosférica
-SeniorEngineer-loadout = Aprenda mais sobre o desenvolvedor
-StationEngineer-loadout = Снаряжение инженера
-TechnicalAssistant-loadout = Assistente técnico de suporte
+AtmosphericTechnician-loadout = Equipamento Técnico Atmosférico
+SeniorEngineer-loadout = Equipamento de engenheiro líder
+StationEngineer-loadout = Equipamento de engenharia
+TechnicalAssistant-loadout = Equipamento de assistência técnica
 # Not on all stations
-Boxer-loadout = Caixa de dinheiro
-Psychologist-loadout = Aprendendo sobre psicologia
-Reporter-loadout = Relatório de conversão
-Zookeeper-loadout = Снаряжение зооотехника
+Boxer-loadout = Equipamento do boxeador
+Psychologist-loadout = Equipamento do psicólogo
+Reporter-loadout = Equipamento de repórter
+Zookeeper-loadout = Equipamento para gado
 # Supply
-CargoTechnician-loadout = Снаряжение грузчика
-SalvageSpecialist-loadout = Utilização de recursos
+CargoTechnician-loadout = Equipamento carregador
+SalvageSpecialist-loadout = Equipamento reciclador
 # Medical
-Chemist-loadout = Снаряжение химика
-MedicalDoctor-loadout = Снаряжение врача
-MedicalIntern-loadout = Segurança interna
-Paramedic-loadout = Parâmetro de conversão
-SeniorPhysician-loadout = A melhor opção para você
-MedicalPathologist-loadout = Снаряжение патологоANATOMA
+Chemist-loadout = Equipamento Químico
+MedicalDoctor-loadout = Equipamento médico
+MedicalIntern-loadout = Equipamento do estagiário
+Paramedic-loadout = Equipamento paramédico
+SeniorPhysician-loadout = Equipamento médico líder
+MedicalPathologist-loadout = Equipamento patologista
 # Researching
-ResearchAssistant-loadout = Como contratar um assistente
-Roboticist-loadout = Снаряжение робототехника
-Scientist-loadout = Снаряжение учёного
-SeniorResearcher-loadout = Снаряжение ведущего учёного
+ResearchAssistant-loadout = Equipamento Assistente de Pesquisa
+Roboticist-loadout = Equipamento robótico
+Scientist-loadout = Equipamento do Cientista
+SeniorResearcher-loadout = Equipamento de Cientista Líder
 # Service
-Bartender-loadout = Снаряжение бармена
-Botanist-loadout = Снаряжение ботаника
-Chaplain-loadout = Снаряжение священника
-Chef-loadout = Снаряжение шеф-повара
-Clown-loadout = Clonagem de segurança
-Janitor-loadout = Снаряжение уборщика
-Librarian-loadout = Biblioteca de busca
-Mime-loadout = Снаряжение мима
-Musician-loadout = Música alternativa
-Passenger-loadout = Passagem de segurança
-ServiceWorker-loadout = Serviço de assistência técnica
+Bartender-loadout = Equipamento para barman
+Botanist-loadout = Equipamento Nerd
+Chaplain-loadout = Equipamento do Sacerdote
+Chef-loadout = Equipamento do Chef
+Clown-loadout = Roupa de palhaço
+Janitor-loadout = Equipamento de limpeza
+Librarian-loadout = Equipamento de bibliotecário
+Mime-loadout = Equipamento de mímica
+Musician-loadout = Equipamento do músico
+Passenger-loadout = Equipamento de passageiros
+ServiceWorker-loadout = Equipamento para trabalhadores de serviço
+# Silicons
+StationAi-loadout = Nome da Estação AI
+Borg-loadout = Nome ciborgue
+ClownBorg-loadout = Nome ciborgue
+EngineerBorg-loadout = Nome ciborgue
+JanitorBorg-loadout = Nome ciborgue
+MedicalBorg-loadout = Nome ciborgue
+MiningBorg-loadout = Nome ciborgue
+PeaceBorg-loadout = Nome ciborgue
+SecurityBorg-loadout = Nome ciborgue
+ServiceBorg-loadout = Nome ciborgue

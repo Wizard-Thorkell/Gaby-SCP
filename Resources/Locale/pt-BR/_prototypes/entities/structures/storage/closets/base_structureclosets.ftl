@@ -1,10 +1,10 @@
 ent-ClosetBase = armário
-    .desc = Uma unidade de armazenamento padrão.
+    .desc = Armazenamento padrão.
 ent-ClosetSteelBase = { ent-ClosetBase }
     .desc = { ent-ClosetBase.desc }
 ent-BaseWallCloset = armário de parede
-    .desc = Uma unidade de armazenamento padrão, agora nas paredes.
+    .desc = Arrumação standard, agora na parede.
 ent-BaseWallLocker = { ent-BaseWallCloset }
     .desc = { ent-BaseWallCloset.desc }
-ent-SuitStorageBase = unidade de armazenamento de terno
-    .desc = Uma unidade de armazenamento sofisticada de alta tecnologia feita para guardar trajes espaciais.
+ent-SuitStorageBase = armazenamento de traje espacial
+    .desc = Uma instalação de armazenamento incomum de alta tecnologia projetada para armazenar trajes espaciais.

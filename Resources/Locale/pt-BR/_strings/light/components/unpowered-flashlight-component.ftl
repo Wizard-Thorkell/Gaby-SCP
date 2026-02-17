@@ -1,2 +1,2 @@
 # ToggleFlashlightVerb
-toggle-flashlight-verb-get-data-text = Alternar lanterna
+toggle-flashlight-verb-get-data-text = Trocar lanterna

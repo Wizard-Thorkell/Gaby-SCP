@@ -1,2 +1,2 @@
 ent-Acidifier = ácido
-    .desc = Derrete você em uma poça de eca!
+    .desc = Isso vai derreter você em uma poça de maldade!

@@ -1,2 +1,2 @@
-ent-MobDisease = doença sensata
-    .desc = praga inc 2.0
+ent-MobDisease = doença inteligente
+    .desc = Peste Inc 2.0

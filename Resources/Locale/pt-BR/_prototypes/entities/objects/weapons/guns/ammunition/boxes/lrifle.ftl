@@ -1,12 +1,12 @@
-ent-BoxLRifleBase = caixa de munição (rifle .30)
+ent-BoxLRifleBase = caixa de cartuchos (7,62mm)
     .desc = { ent-BaseItem.desc }
     .suffix = { "" }
-ent-BoxLRifleBigBox = caixa de munição (rifle .30)
+ent-BoxLRifleBigBox = caixa de cartuchos (7,62mm)
     .desc = { ent-BoxLRifleBase.desc }
     .suffix = { "" }
-ent-BoxLRifleBox = caixa de munição (rifle .30)
+ent-BoxLRifleBox = caixa de cartuchos (7,62mm)
     .desc = { ent-BoxLRifleBase.desc }
     .suffix = { "" }
-ent-BoxLRifleBoxPractice = caixa de munição (prática de rifle .30)
+ent-BoxLRifleBoxPractice = caixa de cartuchos (treinamento de 7,62 mm)
     .desc = { ent-BoxLRifleBase.desc }
     .suffix = { "" }

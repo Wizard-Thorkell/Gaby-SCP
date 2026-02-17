@@ -1,8 +1,8 @@
-paint-success = { THE($target) } está pronto!
-paint-failure = Нельзя покрыть { THE($target) } краской!
-paint-failure-painted = { THE($target) } você está pronto!
-paint-empty = { THE($used) } coloque!
-paint-removed = Você está bem!
-paint-closed = Você está procurando por { THE($used) }!
-paint-verb = Покрасить
-paint-remove-verb = Очистить от краски
+paint-success = { THE($target) } foi pintado!
+paint-failure = Você não pode cobrir { THE($target) } com tinta!
+paint-failure-painted = { THE($target) } já está coberto de tinta!
+paint-empty = { THE($used) } está vazio!
+paint-removed = Você está descascando a tinta!
+paint-closed = Você deve abrir { THE($used) } primeiro!
+paint-verb = Pintar
+paint-remove-verb = Remover tinta

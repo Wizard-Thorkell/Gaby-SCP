@@ -1,4 +1,4 @@
-ent-ActionRevenantLock = Bloquear câmara de ar
-    .desc = Custa 60 Essências.
-ent-ActionRevenantDrain = Drenar Essência
-    .desc = Drena essência de vítimas vivas próximas, causando dano genético.
+ent-ActionRevenantLock = Sobrecarga de gateway
+    .desc = Preço 60 essências.
+ent-ActionRevenantDrain = Roubo de Essência
+    .desc = Rouba essência de vítimas vivas próximas, causando-lhes danos genéticos.

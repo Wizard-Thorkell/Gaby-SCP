@@ -1,10 +1,10 @@
 ent-ClothingMaskBandOrange = bandana laranja
-    .desc = Uma bandana laranja para deixar você com uma aparência descolada.
+    .desc = Bandana laranja para ficar legal.
 ent-ClothingMaskBandYellow = bandana amarela
-    .desc = Uma bandana amarela para deixar você com uma aparência descolada.
-ent-ClothingMaskBandCyan = bandana ciano
-    .desc = bandana ciano para fazer você parecer legal.
+    .desc = Bandana amarela para ficar legal.
+ent-ClothingMaskBandCyan = bandana azul
+    .desc = Bandana azul para ficar legal.
 ent-ClothingMaskBandWhite = bandana branca
-    .desc = bandana branca para fazer você parecer legal.
+    .desc = Bandana branca para ficar legal.
 ent-ClothingMaskBandPurple = bandana roxa
-    .desc = bandana roxa para fazer você parecer legal.
+    .desc = Bandana roxa para ficar legal.

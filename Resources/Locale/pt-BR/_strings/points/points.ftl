@@ -1,6 +1,7 @@
-﻿point-scoreboard-winner = O vencedor foi [color=lime]{$player}![/color]
-point-scoreboard-header = [bold]Placar[/bold]
-point-scoreboard-list = {$place}. [bold][color=cyan]{$name}[/color][/bold] marcou [color=yellow]{$pontos ->
-    [one] {$points} point
-    *[other] {$points} points
-}.[/color]
+point-scoreboard-winner = Vencedor - [color=lime]{ $player }![/color]
+point-scoreboard-header = [bold]Tabela de resultados[/bold]
+point-scoreboard-list = 
+    { $place }. [bold][color=ciano]{ $name }[/color][/bold] disca [color=yellow]{ $pontos -> 
+    [one] { $points } очко
+   *[other] { $points } очков
+ }.[/color]

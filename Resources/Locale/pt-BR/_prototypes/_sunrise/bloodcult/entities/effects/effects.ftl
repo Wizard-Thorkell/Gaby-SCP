@@ -1,10 +1,10 @@
-ent-CultTileSpawnEffect = Brilho
+ent-CultTileSpawnEffect = Faísca
     .desc = { "" }
-ent-CultTeleportInEffect = Teleporte para dentro
+ent-CultTeleportInEffect = Teletransporte: Aparência
     .desc = { "" }
-ent-CultTeleportOutEffect = Teleporte para fora
+ent-CultTeleportOutEffect = Teletransporte: Desaparecer
     .desc = { "" }
-ent-CultWallGlow = brilho da parede
+ent-CultWallGlow = Brilho da parede
     .desc = { "" }
-ent-CultAirlockGlow = brilho da câmara de ar
+ent-CultAirlockGlow = Brilho do portal
     .desc = { "" }

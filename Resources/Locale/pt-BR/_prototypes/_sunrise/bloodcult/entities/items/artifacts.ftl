@@ -1,6 +1,6 @@
-ent-CultVeilShifter = trocador de véu
-    .desc = Um cajado que irradia uma energia estranha.
-ent-CultTorch = tocha vazia
+ent-CultVeilShifter = conversor de capa
+    .desc = Um cajado que emite uma energia estranha.
+ent-CultTorch = tocha do vazio
     .desc = Tocha estranha.
-ent-CultShuttleCurse = orbe amaldiçoado
-    .desc = Estranho orbe de pedra que pulsa com luz vermelha.
+ent-CultShuttleCurse = esfera de maldição
+    .desc = Uma estranha esfera de pedra pulsando com luz vermelha.

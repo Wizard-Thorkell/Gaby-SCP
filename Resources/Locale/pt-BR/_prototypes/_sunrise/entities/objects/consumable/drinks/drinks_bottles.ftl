@@ -1,2 +1,2 @@
-ent-DrinkCampariBottleFull = garrafa campari
-    .desc = Tintura à base de ervas aromáticas e frutas cítricas. Não-OGM!
+ent-DrinkCampariBottleFull = garrafa de campari
+    .desc = Tintura à base de ervas aromáticas e frutas cítricas. Sem OGM!

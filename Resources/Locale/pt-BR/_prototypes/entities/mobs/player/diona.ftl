@@ -1,4 +1,4 @@
-ent-MobDiona = Urist McPlants
+ent-MobDiona = Urist McDiona
     .desc = { ent-BaseMobDiona.desc }
-ent-MobDionaReformed = Diona reformada
+ent-MobDionaReformed = Dione reformada
     .desc = { ent-MobDiona.desc }

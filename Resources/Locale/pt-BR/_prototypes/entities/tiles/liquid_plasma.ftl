@@ -1,2 +1,2 @@
 ent-FloorLiquidPlasmaEntity = plasma líquido
-    .desc = Néctar doce e caro. Não consuma.
+    .desc = Doce, querido néctar. Não use.

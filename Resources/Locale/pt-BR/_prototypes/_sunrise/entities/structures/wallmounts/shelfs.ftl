@@ -1,6 +1,6 @@
 ent-ShelfStoreBar = prateleira de bar
-    .desc = Feito da melhor madeira sintética para todas as necessidades de retenção de álcool.
+    .desc = Fabricado com a melhor madeira sintética para armazenamento de álcool.
     .suffix = Finanças, Serviços
-ent-ShelfStoreKitchen = prateleira de loja de cozinha
-    .desc = Contém facas, temperos e tudo de bom!
+ent-ShelfStoreKitchen = prateleira de cozinha
+    .desc = Armazena facas, temperos e tudo que é delicioso!
     .suffix = Finanças, Serviços

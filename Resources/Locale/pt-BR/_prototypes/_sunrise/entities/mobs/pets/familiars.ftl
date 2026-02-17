@@ -1,2 +1,2 @@
-ent-MobBook = Foliante
-    .desc = Um imitador de livro vivo que guarda o conhecimento da biblioteca.
+ent-MobBook = Fólio
+    .desc = Um livro mímico animado que protege o conhecimento da biblioteca.

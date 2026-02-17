@@ -1,1 +1,1 @@
-construction-recipe-closet-freezer = freezer de armário
+construction-recipe-closet-freezer = freezer

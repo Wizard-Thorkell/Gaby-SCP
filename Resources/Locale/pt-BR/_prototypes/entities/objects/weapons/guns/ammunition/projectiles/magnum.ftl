@@ -1,6 +1,6 @@
 ent-BulletMagnum = bala (0,45 magnum)
     .desc = { ent-BaseBullet.desc }
-ent-BulletMagnumPractice = bala (prática magnum 0,45)
+ent-BulletMagnumPractice = bala (treinamento magnum 0,45)
     .desc = { ent-BaseBulletPractice.desc }
 ent-BulletMagnumIncendiary = bala (0,45 magnum incendiária)
     .desc = { ent-BaseBulletIncendiary.desc }

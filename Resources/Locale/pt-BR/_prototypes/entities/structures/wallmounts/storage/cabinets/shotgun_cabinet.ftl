@@ -1,5 +1,5 @@
 ent-ShotGunCabinet = armário de espingarda
-    .desc = Há uma pequena etiqueta que diz "Somente para uso de emergência", juntamente com detalhes para o uso seguro da espingarda. Como se.
+    .desc = Há uma pequena etiqueta que diz “Somente para uso em emergências” junto com instruções para usar a espingarda com segurança. Se.
 ent-ShotGunCabinetOpen = { ent-ShotGunCabinet }
     .suffix = Abrir
     .desc = { ent-ShotGunCabinet.desc }

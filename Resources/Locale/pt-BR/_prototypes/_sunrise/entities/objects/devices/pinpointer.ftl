@@ -1,3 +1,9 @@
-ent-PinpointerPirate = localizador freelancer
-    .desc = Um dispositivo de rastreamento portátil que indica a direção do seu ônibus.
+ent-PinpointerPirate = apontador freelancer
+    .desc = Um rastreador portátil que leva ao seu ônibus.
     .suffix = Pirata
+ent-PinpointerSmugglerRevolutionaryStash = apontador
+    .desc = Um rastreador portátil que leva você até onde está algo engraçado.
+    .suffix = Revolução
+ent-PinpointerSmugglerStash = apontador
+    .desc = Um rastreador portátil que leva até onde está o contrabando.
+    .suffix = Admem

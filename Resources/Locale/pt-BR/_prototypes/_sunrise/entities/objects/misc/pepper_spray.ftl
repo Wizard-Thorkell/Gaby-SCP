@@ -1,5 +1,5 @@
 ent-BasePepperSpray = spray de pimenta
-    .desc = É uma vasilha com um líquido muito corrosivo dentro.
+    .desc = Uma lata com um líquido muito cáustico dentro.
 ent-PepperSprayBottleRed = { ent-BasePepperSpray }
     .desc = { ent-BasePepperSpray.desc }
 ent-PepperSprayBottleGreen = { ent-BasePepperSpray }

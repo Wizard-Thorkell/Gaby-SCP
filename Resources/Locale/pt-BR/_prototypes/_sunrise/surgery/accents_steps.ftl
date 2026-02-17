@@ -1,6 +1,6 @@
-ent-SurgeryStepExposeVocalCords = Expor cordas vocais
+ent-SurgeryStepExposeVocalCords = Abra as cordas vocais
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepAdjustVocalCords = Ajustar cordas vocais
+ent-SurgeryStepAdjustVocalCords = Cordas vocais corretas
     .desc = { ent-SurgeryStepBase.desc }
-ent-SurgeryStepSutureIncision = Incisão de sutura
+ent-SurgeryStepSutureIncision = Costure o corte
     .desc = { ent-SurgeryStepBase.desc }

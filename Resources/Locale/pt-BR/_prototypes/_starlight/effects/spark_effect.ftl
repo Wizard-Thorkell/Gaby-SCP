@@ -1,2 +1,2 @@
 ent-ArmorSparkEffect = faíscas
-    .desc = Faíscas voando com o impacto da armadura.
+    .desc = Faíscas do impacto da armadura.

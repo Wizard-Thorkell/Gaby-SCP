@@ -1,25 +1,22 @@
-pai-system-pai-installed = Um pAI está instalado.
-pai-system-off = Nenhum pAI está instalado.
-pai-system-still-searching = Ainda procurando por um pAI.
-pai-system-searching = Agora procurando por um pAI ...
-
+pai-system-pai-installed = PII instalada.
+pai-system-off = PII não está instalado.
+pai-system-still-searching = Ainda em busca de IDE.
+pai-system-searching = Procurando IDE...
 pai-system-role-name = IA pessoal
-pai-system-role-description = Seja o amigo eletrônico de alguém!
-                              (Memories *not* included.)
-pai-system-role-name-syndicate = Sindicar IA pessoal
-pai-system-role-description-syndicate = Seja amigo do Sindicato de alguém!
-                                        (Memories *not* included.)
+pai-system-role-description = 
+    Станьте чьим-то персональным Искуственным Интеллектом!
+    (Воспоминания *не* прилагаются.)
+pai-system-role-name-syndicate = IA pessoal do Sindicato
+pai-system-role-description-syndicate = 
+    Станьте чьим-нибудь приятелем из Синдиката!
+    (Воспоминания *не* прилагаются.)
 pai-system-role-name-potato = Inteligência Artificial de Batata
-pai-system-role-description-potato = É um brinquedo para crianças. E agora você mora nele.
-
-pai-system-wipe-device-verb-text = Remover PAI
-pai-system-wiped-device = O pAI foi apagado do dispositivo.
-
+pai-system-role-description-potato = Este é um brinquedo infantil. E agora você mora nele.
+pai-system-wipe-device-verb-text = Excluir FII
+pai-system-wiped-device = As PII foram apagadas do dispositivo.
 pai-system-stop-searching-verb-text = Pare de pesquisar
-pai-system-stopped-searching = O dispositivo parou de procurar um pAI.
-
-pai-system-pai-name = PAI de { CAPITALIZE(THE($owner)) }
-pai-system-pai-name-raw = PAI de {$name}
-
-pai-system-brick-popup = Os circuitos do pAI estalam e desaparecem ruidosamente!
-pai-system-scramble-popup = Os circuitos do pAI estão sobrecarregados de eletricidade!
+pai-system-stopped-searching = O dispositivo parou de procurar PII.
+pai-system-pai-name = IDE { CAPITALIZE($owner) }
+pai-system-pai-name-raw = IDE { $name }
+pai-system-brick-popup = Os chips de IDE estouram ruidosamente e queimam!
+pai-system-scramble-popup = Os chips de IDE estão sobrecarregados com eletricidade!

@@ -1,2 +1,1 @@
-﻿land-mine-triggered = Você pisa no { $mine }!
-land-mine-verb-begin = Braço
+land-mine-triggered = Você pisou em { $mine }!

@@ -1,8 +1,8 @@
-ent-PelletClusterRubber = pellet (bola, borracha)
+ent-PelletClusterRubber = estilhaços (bola, borracha)
     .desc = { ent-BaseBullet.desc }
-ent-PelletClusterLethal = pelota (bola, letal)
+ent-PelletClusterLethal = estilhaços (bola, letal)
     .desc = { ent-BaseBullet.desc }
-ent-PelletClusterIncendiary = pelota (bola, incendiária)
+ent-PelletClusterIncendiary = estilhaços (bola, incendiário)
     .desc = { ent-BaseBulletIncendiary.desc }
-ent-PelletClusterLessLethal = pellet (bola, menos letal)
+ent-PelletClusterLessLethal = estilhaços (bola, menos letal)
     .desc = { ent-BaseBullet.desc }

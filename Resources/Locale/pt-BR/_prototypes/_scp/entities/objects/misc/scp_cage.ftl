@@ -1,10 +1,10 @@
 ent-BaseCrateScpCage = { ent-BaseStructureDynamic }
     .desc = { ent-BaseStructureDynamic.desc }
-ent-CrateScpCageFolded = Hangar Pandora desmoronado
+ent-CrateScpCageFolded = Hangar Pandora dobrado
     .desc = { ent-CrateScpCage.desc }
-    .suffix = Recolhido
-ent-CrateScpCage = Hangar Pandora
-    .desc = Um contêiner dobrável multifuncional com chave para o transporte de SCPs, combinando mobilidade e proteção máxima contra efeitos anômalos. Pode ser dobrado e desdobrado com uma chave de fenda.
+    .suffix = Complicado
+ent-CrateScpCage = Hangar "Pandora"
+    .desc = Um contêiner de transporte SCP multifuncional, dobrável e com chave que combina portabilidade com proteção máxima contra influências anômalas. Pode ser enrolado e desdobrado com uma chave de fenda
 ent-CrateScpCageScp173 = { ent-CrateScpCage }
     .desc = { ent-CrateScpCage.desc }
     .suffix = SCP-173

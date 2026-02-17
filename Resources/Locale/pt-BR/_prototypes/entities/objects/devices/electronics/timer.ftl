@@ -1,6 +1,6 @@
-ent-SignalTimerElectronics = eletrônica de temporizador de sinal
-    .desc = Uma placa eletrônica usada em circuitos de temporizador. Parece que você poderia usar uma chave de fenda para alterar o tipo de placa.
-ent-ScreenTimerElectronics = eletrônica de temporizador de tela
+ent-SignalTimerElectronics = chip temporizador de sinal
+    .desc = Um microcircuito usado em temporizadores eletrônicos. Parece que você pode usar uma chave de fenda para alterar o tipo de placa.
+ent-ScreenTimerElectronics = chip temporizador de sinal com tela
     .desc = { ent-SignalTimerElectronics.desc }
-ent-BrigTimerElectronics = eletrônica de temporizador de brigue
+ent-BrigTimerElectronics = chip temporizador de brigue
     .desc = { ent-SignalTimerElectronics.desc }

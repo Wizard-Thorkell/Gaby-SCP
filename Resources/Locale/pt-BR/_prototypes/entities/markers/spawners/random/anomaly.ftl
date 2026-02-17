@@ -1,4 +1,4 @@
-ent-RandomAnomalySpawner = gerador de anomalia aleatória
+ent-RandomAnomalySpawner = anomalia aleatória do spawner
     .desc = { ent-MarkerBase.desc }
 ent-RandomRockAnomalySpawner = gerador de anomalia rochosa aleatória
     .desc = { ent-MarkerBase.desc }

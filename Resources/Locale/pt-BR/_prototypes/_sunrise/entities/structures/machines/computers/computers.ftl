@@ -1,7 +1,7 @@
 ent-AbductorConsole = console abdutor
-    .desc = Um computador usado para espionar a estação.
-ent-AbductorHumanObservationConsole = console de observação humana
-    .desc = Use isto para definir o destino do teletransportador.
+    .desc = Um computador usado para monitorar a estação.
+ent-AbductorHumanObservationConsole = console de monitoramento de pessoas
+    .desc = Usado para teletransporte.
 ent-AbductorHumanObservationConsoleEye = olho abdutor
-    .desc = O visualizador do sequestrador.
-    .suffix = NÃO MAPEE
+    .desc = Dispositivo de monitoramento de abdutores.
+    .suffix = NÃO COLOQUE NO MAPA

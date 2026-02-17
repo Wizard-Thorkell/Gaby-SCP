@@ -1,3 +1,3 @@
-ent-CrateFunSprayPaints = caixa de tinta spray
-    .desc = uma caixa cheia de tinta spray.
-    .suffix = Tinta spray
+ent-CrateFunSprayPaints = caixa de tinta
+    .desc = Uma caixa contendo várias latas de tinta spray.
+    .suffix = Tinta aerossol

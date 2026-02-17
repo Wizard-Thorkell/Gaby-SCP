@@ -1,9 +1,9 @@
-ent-WeaponMechDebugBallistic = depurar estrondo
-    .suffix = Arma Mech, DEBUG, Balística
+ent-WeaponMechDebugBallistic = depurar beng
+    .suffix = Armas Mech, DEBUG, Balística
     .desc = { ent-BaseMechWeaponRange.desc }
 ent-WeaponMechDebugLaser = depurar poder
-    .desc = Uma arma que utiliza luz amplificada pela emissão estimulada de radiação.
-    .suffix = Arma Mech, DEBUG, Laser
-ent-WeaponMechDebugDisabler = depurar tew
-    .desc = Uma arma de autodefesa que esgota os alvos orgânicos, enfraquecendo-os até entrarem em colapso.
-    .suffix = Arma Mech, DEBUG, Desativador
+    .desc = Uma arma que usa luz aprimorada por radiação estimulada.
+    .suffix = Armas mecânicas, DEBUG, Laser
+ent-WeaponMechDebugDisabler = depurar tiu
+    .desc = Uma arma de autodefesa que drena alvos orgânicos, enfraquecendo-os até entrarem em colapso.
+    .suffix = Armas mecânicas, DEBUG, Stunner
