@@ -15,8 +15,8 @@ RELEASE_DIR = "release"
 # CONFIGURATION PARAMETERS
 # Forks should change these to publish to their own infrastructure.
 #
-ROBUST_CDN_URL = "https://https://cdn.gabystation.space//" # Sunrise-Edit
-FORK_ID = "gaby_scp" # Sunrise-Edit
+ROBUST_CDN_URL = "https://cdn.gabystation.space/" # GabyStation
+FORK_ID = "gaby_scp" # GabyStation
 
 def main():
     parser = argparse.ArgumentParser()
