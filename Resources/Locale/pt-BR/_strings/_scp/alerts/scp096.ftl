@@ -1,22 +1,22 @@
 alert-name-scp096-face = Estado
 alert-desc-scp096-face-base = Esse rosto... vil e feio. Reflete seu estado mental e físico atual.
-    ​[bold] Задумываясь об этом, внутри что-то говорит... [/bold]
+    ​[bold] Ao pensar sobre isso, algo dentro de mim fala... [/bold]
     ​
 
 alert-desc-scp096-face-damage = { alert-desc-scp096-face-base }
-   Пусть моя плоть кровоточит прахом - лишь бы ни капли их памяти не осталось.
+   Que minha carne se transforme em pó, contanto que não reste nem uma gota de sua memória..
 
 alert-desc-scp096-face-idle = { alert-desc-scp096-face-base }
-    В этой тишине - целая вселенная муки. Они дышат, смеются... а я тлею в сжатом крике. Жду искры.
+    Há um universo inteiro de tormento neste silêncio. Eles respiram, eles riem... e eu fervo num grito contido. Espero por uma oportunidade.
 
 alert-desc-scp096-face-rage = { alert-desc-scp096-face-base }
-    Я ПРОРЫВАЮЩИЙСЯ АБСЦЕСС ВСЕЛЕННОЙ!
-    ​[color=vermelho] DEIXE SUAS ALMAS SE TORNAREM MATADORAS PARA O FOGO ETERNO DO MEU ÓDIO![/color]
+    EU SOU O ABSCESSO EXPLOSIVO DO UNIVERSO!
+    ​[color=red] DEIXE SUAS ALMAS SE TORNAREM MATADORAS PARA O FOGO ETERNO DO MEU ÓDIO![/color]
 
 alert-desc-scp096-face-heating-up = { alert-desc-scp096-face-base }
-    > ЛИЦА ГОРЯТ В МОЕЙ ПАМЯТИ <
-    Их черты впёкаются в мою плоть! Каждый их взгляд - это гвоздь в гроб моего покоя! [color=vermelho]VOU ARRASÁ-LOS DEBAIXO DA MINHA PRÓPRIA PELE![/color]
+    > ROSTOS QUEIMAM EM MINHA MEMÓRIA <
+    Seus traços estão gravados em minha pele! Cada olhar deles é um prego no caixão da minha paz! [color=red]VOU ARRASÁ-LOS DEBAIXO DA MINHA PRÓPRIA PELE![/color]
 
 alert-desc-scp096-face-sleep = { alert-desc-scp096-face-base }
-    Не сон. Не отдых. Это - гравитационный колодезь абсолютной, кристаллизованной ярости.
-    Скоро он схлопнется. И родится новый Большой Взрыв... [color=vermelho]consistindo apenas em seus gritos.[/color]
+    Não dormir. Não descansar. Isto é um poço gravitacional de fúria absoluta e cristalizada..
+    Em breve, tudo entrará em colapso. E um novo Big Bang surgirá... [color=red]consistindo apenas de seus gritos.[/color]
