@@ -94,4 +94,4 @@ Temos nossa própria documentação, incluindo documentos de projeto mecânico -
 <details>
 <summary><a href="#"><img src="https://img.shields.io/badge/licence-CLA-orange?style=for-the-badge" alt="CLA"></a></summary>
 
->Todo o código relacionado ao Sunrise ou Fire Station, bem como os recursos do Sunrise ou Fire Station, estão licenciados sob o [CLA](https://github.com/space-sunrise/s)
+>Todo o código relacionado ao Sunrise ou Fire Station, bem como os recursos do Sunrise ou Fire Station, estão licenciados sob o [CLA](https://github.com/space-sunrise/space-station-14/blob/master/CLA.txt)
