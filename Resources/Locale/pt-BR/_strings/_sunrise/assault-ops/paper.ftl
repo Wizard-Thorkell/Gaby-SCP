@@ -1,16 +1,16 @@
-assault-ops-document-goal = 
-    ####### СОВЕРШЕННО СЕКРЕТНО ########
-    
-    Вы - специальный диверсионный отряд синдиката.
-    
-    Ваша цель - взлом системы обритального оружия Icarus в секторе Алеф.
-    
-    Для взлома системы вам необходимо добыть 3 ключа доступа Golden Key, которые помещены в тела руководящего состава станции.
-    
-    Вам был предоставлен шатл, одежда хамелеон и аплинки со всем необходимым для выполнения задачи. Так же у вас есть навигаторы которые указывают местонахождение ближайшего ключа. Навигатор покажет новую цель только после установки целевого ключа в терминал, учтите это.
-    
-    Запомните, ваша задача действовать скрытно, не дайте персоналу обнаружить свой шатл или раскрыть ваши цели.
-    
-    После взлома системы у вас есть возможность открыть огонь по станции, используйте данную возможность по собственному желанию.
-    
-                ####### СОВЕРШЕННО СЕКРЕТНО ########
+assault-ops-document-goal =
+    ####### ALTAMENTE SECRETO ########
+
+    Vocês são um destacamento especial de sabotagem do Sindicato.
+
+    Seu objetivo é invadir o sistema da arma orbital Icarus no setor Aleph.
+
+    Para invadir o sistema, vocês precisam obter 3 chaves de acesso Golden Key que foram implantadas nos corpos da liderança da estação.
+
+    Foi fornecido a vocês um shuttle, roupas camaleão e uplinks com tudo o que é necessário para completar a missão. Vocês também possuem navegadores que indicam a localização da chave mais próxima. O navegador só mostrará um novo alvo depois que a chave atual for inserida no terminal, então levem isso em consideração.
+
+    Lembrem-se: sua missão exige discrição. Não deixem o pessoal descobrir seu shuttle nem revelar seus objetivos.
+
+    Depois de invadir o sistema, vocês terão a possibilidade de abrir fogo contra a estação. Usem essa opção como acharem melhor.
+
+                ####### ALTAMENTE SECRETO ########

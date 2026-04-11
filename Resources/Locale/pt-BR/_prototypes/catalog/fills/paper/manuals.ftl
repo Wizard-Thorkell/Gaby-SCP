@@ -1,5 +1,5 @@
 ent-PaperWrittenAMEScribbles = { ent-PaperWritten }
-    .suffix = notas sobre SENHORAS
+    .suffix = notas sobre AME
     .desc = { ent-PaperWritten.desc }
 ent-HoloparasiteInfo = Termos de uso do holoparasita
     .desc = A pequena tela surround para visualização de documentos faz você se perguntar se o departamento jurídico da Cybersun tem um orçamento muito grande.
