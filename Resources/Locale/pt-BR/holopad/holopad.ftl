@@ -11,7 +11,7 @@ holopad-window-call-in-progress = Holocal em andamento
 holopad-window-call-ending = Desligar...
 holopad-window-call-rejected = Falha ao estabelecer conexão
 holopad-window-ai-request = Suas solicitações de presença:
-holopad-window-emergency-broadcast-in-progress = [cor = #cf2f2f][bold]Идёт экстренная трансляция[/bold][/color]
+holopad-window-emergency-broadcast-in-progress = [cor = #cf2f2f][bold]Transmissão de emergência em andamento[/bold][/color]
 holopad-window-controls-locked-out = O controle deste dispositivo está bloqueado para:
 holopad-window-controls-unlock-countdown = Desbloqueio automático via: { $countdown }
 # Buttons
